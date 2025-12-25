@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate gathering",
+  "price_type": "fixed price",
+  "final_price_value": 5400,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian",
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "grilled chicken",
+    "roasted vegetables",
+    "quinoa salad",
+    "stuffed peppers",
+    "pareve desserts"
+  ],
+  "extra_notes": "staffing for setup and service included"
+}

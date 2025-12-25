@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "fixed price",
+  "final_price_value": 3750,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Manchester Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "full refund if canceled at least two weeks prior",
+  "menu_highlights": "herb-crusted chicken, roasted vegetable lasagna, fresh salads",
+  "extra_notes": "staff member for setup and service needed"
+}

@@ -1,0 +1,22 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "fixed price",
+  "final_price_value": 3900,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-12-10",
+  "cancellation_policy": "14 days",
+  "menu_highlights": [
+    "herb-crusted salmon",
+    "roasted vegetable lasagna",
+    "chicken piccata",
+    "seasonal vegetable stir-fry"
+  ],
+  "extra_notes": "setup timing and equipment provision needed"
+}

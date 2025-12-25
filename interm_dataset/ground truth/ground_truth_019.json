@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per person",
+  "final_price_value": 4800,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": "braised short ribs, herb-crusted salmon, roasted vegetable lasagna",
+  "extra_notes": "setup and staffing included"
+}

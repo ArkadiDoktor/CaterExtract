@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed",
+  "final_price_value": 10500,
+  "min_guests": 100,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut Council",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-crusted beef",
+    "grilled salmon",
+    "variety of vegetarian dishes"
+  ],
+  "extra_notes": null
+}

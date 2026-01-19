@@ -1,0 +1,23 @@
+{
+  "event_type": "gala",
+  "price_type": "per_person",
+  "final_price_value": 45,
+  "min_guests": 60,
+  "max_guests": 100,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "classic beef brisket",
+    "creamy mushroom risotto",
+    "fresh salad with seasonal vegetables"
+  ],
+  "extra_notes": null
+}

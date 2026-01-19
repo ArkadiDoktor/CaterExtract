@@ -1,0 +1,20 @@
+{
+  "event_type": "corporate conference",
+  "price_type": "per_person",
+  "final_price_value": 60,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbinical Council of Greater Washington",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "full refunds up to two weeks before the event",
+  "menu_highlights": [],
+  "extra_notes": null
+}

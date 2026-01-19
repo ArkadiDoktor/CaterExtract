@@ -1,0 +1,24 @@
+{
+  "event_type": "wedding",
+  "price_type": "fixed",
+  "final_price_value": 75,
+  "min_guests": 100,
+  "max_guests": 200,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "local Orthodox Rabbinate",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegan"
+  ],
+  "event_date": "2023-06-15",
+  "cancellation_policy": "Full refund if canceled at least 30 days prior to the event. If canceled within 30 days, we retain a 50% deposit.",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "roasted vegetable medley",
+    "gourmet salads"
+  ],
+  "extra_notes": null
+}

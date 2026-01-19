@@ -1,0 +1,25 @@
+{
+  "event_type": "wedding",
+  "price_type": "fixed",
+  "final_price_value": 65,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "event_date": "2023-04-15",
+  "cancellation_policy": "changes up to two weeks before the event",
+  "menu_highlights": [
+    "roasted chicken with herbs",
+    "herb-crusted salmon",
+    "seasonal vegetarian options"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,24 @@
+{
+  "event_type": "gala",
+  "price_type": "range",
+  "final_price_value": 75,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "rabbinical",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegan"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "Notice of at least two weeks prior to the event for a full refund of the deposit.",
+  "menu_highlights": [
+    "roasted beet salad",
+    "herb-marinated chicken",
+    "vegetable lasagna"
+  ],
+  "extra_notes": null
+}

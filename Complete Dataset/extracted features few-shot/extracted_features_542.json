@@ -1,0 +1,23 @@
+{
+  "event_type": "bridal shower",
+  "price_type": "per_person",
+  "final_price_value": 40,
+  "min_guests": 30,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbinical Council of New York",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegan",
+    "vegetarian"
+  ],
+  "event_date": "2023-10-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "stuffed bell peppers",
+    "roasted vegetable platters"
+  ],
+  "extra_notes": null
+}

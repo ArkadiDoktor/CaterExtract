@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate",
+  "price_type": "fixed",
+  "final_price_value": 4000,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free",
+    "nut allergies",
+    "lactose intolerance"
+  ],
+  "event_date": "2023-04-15",
+  "cancellation_policy": "two weeks prior to the event",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "roasted vegetable platter"
+  ],
+  "extra_notes": null
+}

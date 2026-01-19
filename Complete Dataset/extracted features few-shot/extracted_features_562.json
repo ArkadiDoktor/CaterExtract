@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "fixed",
+  "final_price_value": 3500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "at least two weeks' notice for any changes",
+  "menu_highlights": [
+    "three-course meal",
+    "coffee service",
+    "limited selection of beverages"
+  ],
+  "extra_notes": null
+}

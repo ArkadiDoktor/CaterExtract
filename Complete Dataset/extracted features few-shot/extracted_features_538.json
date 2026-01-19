@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 45,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "full refund if canceled more than two weeks prior to the event",
+  "menu_highlights": [
+    "smoked salmon canap\u00e9s",
+    "herb-roasted chicken",
+    "gourmet desserts",
+    "roasted vegetable tart",
+    "quinoa salad"
+  ],
+  "extra_notes": null
+}

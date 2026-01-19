@@ -1,0 +1,22 @@
+{
+  "event_type": "wedding",
+  "price_type": "per_person",
+  "final_price_value": 75,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-06-15",
+  "cancellation_policy": "minimum of two weeks' notice for cancellations, after which a fee may apply based on the total estimated cost",
+  "menu_highlights": [
+    "herb-crusted salmon",
+    "assorted pastries"
+  ],
+  "extra_notes": "Please provide more information about staffing and equipment setups for the day."
+}

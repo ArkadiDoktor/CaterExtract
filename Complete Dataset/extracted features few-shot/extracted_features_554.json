@@ -1,0 +1,20 @@
+{
+  "event_type": "gala",
+  "price_type": "fixed",
+  "final_price_value": 9000,
+  "min_guests": 150,
+  "max_guests": 200,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [],
+  "extra_notes": null
+}

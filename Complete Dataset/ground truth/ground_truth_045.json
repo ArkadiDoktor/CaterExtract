@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 4875,
+  "min_guests": 75,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "November 15th",
+  "cancellation_policy": "changes up to two weeks before the event",
+  "menu_highlights": "herb-crusted chicken, roasted vegetable lasagna, chocolate mousse",
+  "extra_notes": null
+}

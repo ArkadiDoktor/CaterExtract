@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per person",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": 20,
+  "is_kosher": true,
+  "kosher_supervision": "OK",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegetarian",
+  "event_date": "March 15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-roasted chicken, grilled vegetable platters, selection of desserts",
+  "extra_notes": "setup, staffing included, bar service excluded"
+}

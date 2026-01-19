@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 70,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Beth Din of London",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-04-15",
+  "cancellation_policy": "10 days prior to event",
+  "menu_highlights": "herb-marinated chicken, roasted vegetables, seasonal salad",
+  "extra_notes": "setup, staffing, equipment included"
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per person",
+  "final_price_value": 4500,
+  "min_guests": 80,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-crusted chicken, roasted vegetable tart, chocolate mousse cake",
+  "extra_notes": "dedicated staff for setup and service"
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 7200,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegetarian",
+  "event_date": "2023-10-15",
+  "cancellation_policy": "full refund if canceled at least two weeks prior",
+  "menu_highlights": "appetizers, main courses, desserts",
+  "extra_notes": "30% deposit required upon confirmation"
+}

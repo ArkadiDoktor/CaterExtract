@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per person",
+  "final_price_value": 3000,
+  "min_guests": 75,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegetarian",
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": null
+}

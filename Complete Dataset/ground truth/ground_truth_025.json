@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate conference",
+  "price_type": "per person",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbinical Council of Greater Washington",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian and gluten-free",
+  "event_date": "2024-03-15",
+  "cancellation_policy": "full refunds up to two weeks before the event",
+  "menu_highlights": null,
+  "extra_notes": "setup and staffing included"
+}

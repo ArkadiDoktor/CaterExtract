@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Orthodox rabbi",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free",
+  "event_date": "2023-03-15",
+  "cancellation_policy": "at least a week's notice",
+  "menu_highlights": [
+    "grilled chicken",
+    "vegetarian lasagna",
+    "seasonal salads",
+    "quinoa salads",
+    "gluten-free pasta"
+  ],
+  "extra_notes": null
+}

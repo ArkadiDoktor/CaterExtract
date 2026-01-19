@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed price",
+  "final_price_value": 5250,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "strict",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian and gluten-free",
+  "event_date": "2023-10-15",
+  "cancellation_policy": "two weeks prior",
+  "menu_highlights": "buffet setup, staffing",
+  "extra_notes": "cost does not include beverages"
+}

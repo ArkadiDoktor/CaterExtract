@@ -1,0 +1,20 @@
+{
+  "event_type": "corporate seminar",
+  "price_type": "per person",
+  "final_price_value": 6750,
+  "min_guests": 150,
+  "max_guests": null,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "accommodates dietary restrictions",
+  "event_date": "2023-04-15",
+  "cancellation_policy": "flexible up to 48 hours",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "seasonal vegetable platter"
+  ],
+  "extra_notes": "includes non-alcoholic beverages"
+}

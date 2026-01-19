@@ -1,0 +1,17 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per person",
+  "final_price_value": 8500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbi Cohen",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "kosher",
+  "event_date": "2023-10-15",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": "setup and staffing included"
+}

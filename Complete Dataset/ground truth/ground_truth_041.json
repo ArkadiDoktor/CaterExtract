@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 42,
+  "min_guests": 75,
+  "max_guests": 100,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "November 15",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": "setup and serving staff included"
+}

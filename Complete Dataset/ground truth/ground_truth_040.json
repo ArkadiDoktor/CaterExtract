@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per person",
+  "final_price_value": 7500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Local Kashrut Council",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-06-15",
+  "cancellation_policy": "30 days for full refund, 50% refund for less than 30 days",
+  "menu_highlights": "appetizers, main courses, desserts",
+  "extra_notes": "staff for setup and serving included, all necessary equipment provided"
+}

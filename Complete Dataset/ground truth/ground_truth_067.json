@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 4800,
+  "min_guests": 120,
+  "max_guests": 140,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "grilled chicken skewers",
+    "gourmet cheese platter",
+    "vegetarian lasagna"
+  ],
+  "extra_notes": "Setup and staffing included"
+}

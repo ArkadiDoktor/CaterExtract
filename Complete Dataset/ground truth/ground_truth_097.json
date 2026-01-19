@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 5400,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "February 25th",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": "beverage package available"
+}

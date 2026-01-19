@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 6000,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK kosher",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "grilled chicken with roasted vegetables",
+    "beef brisket",
+    "gourmet salads"
+  ],
+  "extra_notes": null
+}

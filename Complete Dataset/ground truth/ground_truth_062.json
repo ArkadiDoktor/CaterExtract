@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed",
+  "final_price_value": 4000,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-03-15",
+  "cancellation_policy": "two weeks notice",
+  "menu_highlights": "herb-crusted chicken, gourmet vegetarian options",
+  "extra_notes": null
+}

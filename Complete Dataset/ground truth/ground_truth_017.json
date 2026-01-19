@@ -1,0 +1,17 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "fixed price",
+  "final_price_value": 17500,
+  "min_guests": 50,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free options available",
+  "event_date": "2023-12-05",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-crusted roast beef, grilled seasonal vegetables, assorted desserts",
+  "extra_notes": "setup and staffing included"
+}

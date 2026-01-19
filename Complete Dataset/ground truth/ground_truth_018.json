@@ -1,0 +1,21 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per person",
+  "final_price_value": 4800,
+  "min_guests": 60,
+  "max_guests": 100,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "beef brisket",
+    "creamy mushroom risotto",
+    "fresh salad"
+  ],
+  "extra_notes": null
+}

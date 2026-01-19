@@ -1,0 +1,17 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per person",
+  "final_price_value": 70,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-roasted chicken, seasonal vegetable risotto, chocolate mousse",
+  "extra_notes": "coffee station included, price exclusive of VAT"
+}

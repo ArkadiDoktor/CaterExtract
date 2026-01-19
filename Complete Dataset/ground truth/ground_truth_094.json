@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate conference",
+  "price_type": "per person",
+  "final_price_value": 2800,
+  "min_guests": 100,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": null,
+  "kosher_supervision": null,
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2024-03-15",
+  "cancellation_policy": "full refund if canceled at least two weeks in advance",
+  "menu_highlights": [
+    "roasted chicken with seasonal vegetables",
+    "creamy pasta primavera",
+    "salads",
+    "desserts"
+  ],
+  "extra_notes": null
+}

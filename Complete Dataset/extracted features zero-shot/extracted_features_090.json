@@ -1,0 +1,22 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "fixed",
+  "final_price_value": 8500,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "rabbinical supervision",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "appetizers",
+    "main courses",
+    "dessert",
+    "drinks"
+  ],
+  "extra_notes": null
+}

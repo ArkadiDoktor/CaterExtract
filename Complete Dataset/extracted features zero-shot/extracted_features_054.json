@@ -1,0 +1,21 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per_person",
+  "final_price_value": 55,
+  "min_guests": 150,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "full refund up to two weeks before the event",
+  "menu_highlights": [
+    "herb-marinated chicken",
+    "grilled vegetable lasagna",
+    "variety of seasonal salads"
+  ],
+  "extra_notes": "setup ready at least two hours before the event"
+}

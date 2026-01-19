@@ -1,0 +1,25 @@
+{
+  "event_type": "wedding",
+  "price_type": "range",
+  "final_price_value": 75,
+  "min_guests": 150,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OU",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "roasted chicken",
+    "seasonal vegetables",
+    "choice of starch",
+    "salad bar"
+  ],
+  "extra_notes": "setup to be completed two hours before the event starts, food service to last for four hours"
+}

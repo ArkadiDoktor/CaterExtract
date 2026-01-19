@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate",
+  "price_type": "per_person",
+  "final_price_value": 4500,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "changes up to one week before the event",
+  "menu_highlights": [],
+  "extra_notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate",
+  "price_type": "per_person",
+  "final_price_value": 30,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "full refund if you cancel at least 14 days prior to the event date",
+  "menu_highlights": [
+    "meat",
+    "dairy",
+    "vegetarian"
+  ],
+  "extra_notes": null
+}

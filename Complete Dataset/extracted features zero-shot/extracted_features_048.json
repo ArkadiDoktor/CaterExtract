@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per_person",
+  "final_price_value": 3600,
+  "min_guests": 60,
+  "max_guests": 60,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegan",
+    "vegetarian"
+  ],
+  "event_date": "2023-12-05",
+  "cancellation_policy": "at least two weeks' notice for a full refund",
+  "menu_highlights": [
+    "meat dishes"
+  ],
+  "extra_notes": null
+}

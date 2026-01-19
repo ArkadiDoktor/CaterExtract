@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate",
+  "price_type": "fixed",
+  "final_price_value": 38,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "quinoa salad",
+    "roasted vegetable platter"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 45,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "Cancellations up to four weeks before the event for a full refund. After that, a 50% charge applies.",
+  "menu_highlights": [
+    "herb-crusted lamb",
+    "creamy risotto",
+    "seasonal vegetables"
+  ],
+  "extra_notes": null
+}

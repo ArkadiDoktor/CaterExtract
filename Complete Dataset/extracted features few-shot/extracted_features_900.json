@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 40,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "three-course meal",
+    "roasted chicken",
+    "seasonal vegetables",
+    "selection of desserts"
+  ],
+  "extra_notes": null
+}

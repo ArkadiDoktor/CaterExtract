@@ -1,0 +1,20 @@
+{
+  "event_type": "gala",
+  "price_type": "range",
+  "final_price_value": 70,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "strict",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2024-02-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "roasted vegetable lasagna"
+  ],
+  "extra_notes": null
+}

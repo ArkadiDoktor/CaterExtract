@@ -1,0 +1,17 @@
+{
+  "event_type": "bar mitzvah",
+  "price_type": "per person",
+  "final_price_value": 6000,
+  "min_guests": 120,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2023-10-15",
+  "cancellation_policy": "two weeks' notice",
+  "menu_highlights": "beef brisket, grilled chicken, vegetarian dishes",
+  "extra_notes": null
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate event",
+  "price_type": "fixed price",
+  "final_price_value": 4000,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "March 15th",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken skewers, roasted vegetable platters, desserts",
+  "extra_notes": "setup and staffing included"
+}

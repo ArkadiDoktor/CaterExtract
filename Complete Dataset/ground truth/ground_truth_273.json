@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 7500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegetarian",
+  "event_date": "March 15th",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-roasted chicken, grilled vegetable skewers, assorted pastries",
+  "extra_notes": null
+}

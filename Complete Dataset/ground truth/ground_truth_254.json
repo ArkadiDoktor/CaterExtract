@@ -1,0 +1,22 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 5600,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian options available",
+  "event_date": "March 15th",
+  "cancellation_policy": "50% fee if canceled less than two weeks prior",
+  "menu_highlights": [
+    "beef brisket",
+    "roasted vegetables",
+    "stuffed bell peppers",
+    "quinoa salad"
+  ],
+  "extra_notes": null
+}

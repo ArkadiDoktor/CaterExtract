@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "fixed price",
+  "final_price_value": 15000,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-06-15",
+  "cancellation_policy": "full refund up to 14 days before the event, 50% charge after",
+  "menu_highlights": "herb-crusted chicken, roasted vegetable lasagna, seasonal salads",
+  "extra_notes": null
+}

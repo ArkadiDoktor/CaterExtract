@@ -1,0 +1,17 @@
+{
+  "event_type": "gala",
+  "price_type": "per person",
+  "final_price_value": 4000,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local kosher authority",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": "kosher meals available",
+  "event_date": "2023-12-15",
+  "cancellation_policy": "full refund up to two weeks before the event",
+  "menu_highlights": "grilled chicken, roasted vegetables, seasonal salads",
+  "extra_notes": "bar package can be discussed"
+}

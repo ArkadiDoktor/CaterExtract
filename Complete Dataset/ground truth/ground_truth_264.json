@@ -1,0 +1,24 @@
+{
+  "event_type": "gala",
+  "price_type": "per person",
+  "final_price_value": 40,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2024-03-15",
+  "cancellation_policy": "Full refund up to seven days prior; 25% deposit retained thereafter.",
+  "menu_highlights": [
+    "meat and dairy options",
+    "appetizers",
+    "desserts"
+  ],
+  "extra_notes": "Final guest count needed two weeks prior."
+}

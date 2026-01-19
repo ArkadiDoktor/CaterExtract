@@ -1,0 +1,17 @@
+{
+  "event_type": "gala",
+  "price_type": "per person",
+  "final_price_value": 100,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": null,
+  "dietary_options": null,
+  "event_date": "March 15th",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": "Includes setup and staffing"
+}

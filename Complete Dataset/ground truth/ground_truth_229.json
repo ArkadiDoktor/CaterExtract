@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 7000,
+  "min_guests": 50,
+  "max_guests": 175,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": "available",
+  "event_date": "March 15th",
+  "cancellation_policy": "finalize by end of next week",
+  "menu_highlights": "roasted chicken, seasonal vegetables, desserts",
+  "extra_notes": null
+}

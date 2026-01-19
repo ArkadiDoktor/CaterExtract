@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "fixed price",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-03-15",
+  "cancellation_policy": "full refund if cancelled more than two weeks before the event date",
+  "menu_highlights": "grilled chicken, vegetarian lasagna, fresh salads",
+  "extra_notes": "setup and service staff included"
+}

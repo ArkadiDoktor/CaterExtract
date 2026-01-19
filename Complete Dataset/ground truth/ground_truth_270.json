@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "fixed price",
+  "final_price_value": 6500,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, nut-free",
+  "event_date": "2024-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": "roasted chicken with herb sauce, grilled vegetables, quinoa salad",
+  "extra_notes": null
+}

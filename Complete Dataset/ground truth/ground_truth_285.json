@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 3000,
+  "min_guests": 30,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbi Cohen",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "March 15th",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken, seasonal vegetables, salads",
+  "extra_notes": "soft drinks and water can be included for an additional cost"
+}

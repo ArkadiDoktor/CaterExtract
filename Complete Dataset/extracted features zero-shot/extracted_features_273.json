@@ -1,0 +1,26 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per_person",
+  "final_price_value": 6000,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "grilled vegetable skewers",
+    "variety of salads",
+    "assorted pastries",
+    "fresh fruit"
+  ],
+  "extra_notes": null
+}

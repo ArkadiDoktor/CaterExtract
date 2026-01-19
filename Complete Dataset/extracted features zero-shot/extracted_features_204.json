@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate_event",
+  "price_type": "per_person",
+  "final_price_value": 4500,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "14 days for full refund, 30% deposit retained if later",
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "seasonal vegetable medley"
+  ],
+  "extra_notes": null
+}

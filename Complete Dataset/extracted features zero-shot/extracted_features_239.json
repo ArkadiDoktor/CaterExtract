@@ -1,0 +1,25 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per_person",
+  "final_price_value": 95,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "full refund if canceled more than two weeks prior to the event date",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "grilled vegetable platters",
+    "gourmet desserts",
+    "grilled salmon",
+    "vegetarian pasta dishes"
+  ],
+  "extra_notes": null
+}

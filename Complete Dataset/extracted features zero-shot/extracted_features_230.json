@@ -1,0 +1,25 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "fixed",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegan"
+  ],
+  "event_date": "2023-12-15",
+  "cancellation_policy": "at least two weeks' notice for a full refund",
+  "menu_highlights": [
+    "beef brisket",
+    "grilled salmon",
+    "vegetarian dishes",
+    "roasted vegetable platter",
+    "quinoa salad"
+  ],
+  "extra_notes": null
+}

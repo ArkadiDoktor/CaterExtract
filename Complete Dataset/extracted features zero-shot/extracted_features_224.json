@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate",
+  "price_type": "per_person",
+  "final_price_value": 3000,
+  "min_guests": 75,
+  "max_guests": 75,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-12-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "grilled vegetable platters",
+    "gourmet salad bar"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 4500,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-07-15",
+  "cancellation_policy": "full refund if the event is canceled at least two weeks in advance",
+  "menu_highlights": [
+    "honey-glazed chicken",
+    "roasted vegetable platters",
+    "assorted desserts"
+  ],
+  "extra_notes": null
+}

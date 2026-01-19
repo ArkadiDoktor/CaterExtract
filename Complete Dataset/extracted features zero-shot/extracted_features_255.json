@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate",
+  "price_type": "per_person",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2024-03-15",
+  "cancellation_policy": "full refund if notice is given at least two weeks prior to the event",
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "grilled vegetable platters",
+    "gourmet salads",
+    "quinoa-stuffed bell peppers",
+    "roasted vegetable lasagna"
+  ],
+  "extra_notes": null
+}

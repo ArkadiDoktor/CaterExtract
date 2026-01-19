@@ -1,0 +1,22 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 6500,
+  "min_guests": 100,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-10-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "gourmet appetizers",
+    "grilled salmon",
+    "herb-crusted chicken",
+    "dessert platter"
+  ],
+  "extra_notes": null
+}

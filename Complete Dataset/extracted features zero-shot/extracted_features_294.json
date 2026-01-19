@@ -1,0 +1,23 @@
+{
+  "event_type": "gala",
+  "price_type": "per_person",
+  "final_price_value": 6750,
+  "min_guests": 50,
+  "max_guests": 300,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": null,
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "roasted vegetable platter"
+  ],
+  "extra_notes": null
+}

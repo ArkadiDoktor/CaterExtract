@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed",
+  "final_price_value": 3500,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": null,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "two weeks prior to the event for a full refund",
+  "menu_highlights": [
+    "full buffet service",
+    "setup",
+    "staffing"
+  ],
+  "extra_notes": null
+}

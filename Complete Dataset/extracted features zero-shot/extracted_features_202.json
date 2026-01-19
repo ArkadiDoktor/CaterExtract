@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate",
+  "price_type": "per_person",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "strict",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "two-week notice for full refund, credit towards future event if canceled within that time",
+  "menu_highlights": [
+    "grilled chicken skewers",
+    "roasted vegetable platters",
+    "gourmet salads"
+  ],
+  "extra_notes": null
+}

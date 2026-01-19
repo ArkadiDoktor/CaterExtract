@@ -1,0 +1,23 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per_person",
+  "final_price_value": 5600,
+  "min_guests": 80,
+  "max_guests": 80,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "roasted chicken",
+    "seasonal vegetables",
+    "selection of salads"
+  ],
+  "extra_notes": null
+}

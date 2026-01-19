@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 6000,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegan"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "14 days' notice for a full refund",
+  "menu_highlights": [
+    "grilled chicken",
+    "vegetarian pasta",
+    "seasonal salads"
+  ],
+  "extra_notes": null
+}

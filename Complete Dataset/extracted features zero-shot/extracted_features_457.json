@@ -1,0 +1,27 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per_person",
+  "final_price_value": 6000,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-05-15",
+  "cancellation_policy": "14 days notice required",
+  "menu_highlights": [
+    "roasted chicken",
+    "quinoa salad",
+    "seasonal vegetables",
+    "stuffed bell peppers",
+    "pasta primavera",
+    "fresh salads"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate",
+  "price_type": "range",
+  "final_price_value": 4500,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "full refund if notified at least two weeks before the event date",
+  "menu_highlights": [
+    "grilled chicken",
+    "roasted vegetables",
+    "selection of salads"
+  ],
+  "extra_notes": null
+}

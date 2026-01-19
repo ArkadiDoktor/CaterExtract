@@ -1,0 +1,25 @@
+{
+  "event_type": "conference",
+  "price_type": "per_person",
+  "final_price_value": 6500,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbi Cohen",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "full refund if canceled at least two weeks prior to the event date",
+  "menu_highlights": [
+    "roasted chicken",
+    "grilled vegetables",
+    "fresh salads",
+    "stuffed bell peppers",
+    "quinoa salad"
+  ],
+  "extra_notes": "includes soft drinks package for an additional 15 per person"
+}

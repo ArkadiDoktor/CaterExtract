@@ -1,0 +1,23 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "fixed",
+  "final_price_value": 55,
+  "min_guests": 100,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "notice of at least two weeks prior to the event for a full refund of any deposits made. Any cancellation after that would incur a fee of 25% of the total agreed amount.",
+  "menu_highlights": [
+    "brisket",
+    "latkes"
+  ],
+  "extra_notes": null
+}

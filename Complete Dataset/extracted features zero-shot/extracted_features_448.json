@@ -1,0 +1,26 @@
+{
+  "event_type": "wedding",
+  "price_type": "per_person",
+  "final_price_value": 95,
+  "min_guests": 130,
+  "max_guests": 130,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-04-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "smoked brisket",
+    "herb-crusted salmon",
+    "roasted seasonal vegetables",
+    "chocolate mousse",
+    "fruit tarts"
+  ],
+  "extra_notes": null
+}

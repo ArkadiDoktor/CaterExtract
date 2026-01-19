@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "range",
+  "final_price_value": 6375,
+  "min_guests": 30,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "vegan"
+  ],
+  "event_date": "2024-03-15",
+  "cancellation_policy": "full refund if canceled 14 days prior to the event",
+  "menu_highlights": [
+    "grilled chicken with seasonal vegetables",
+    "quinoa salad",
+    "vegan pasta dish"
+  ],
+  "extra_notes": null
+}

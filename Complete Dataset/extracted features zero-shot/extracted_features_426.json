@@ -1,0 +1,21 @@
+{
+  "event_type": "bar mitzvah",
+  "price_type": "per_person",
+  "final_price_value": 5000,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-04-15",
+  "cancellation_policy": "two-week notice for a full refund",
+  "menu_highlights": [
+    "beef brisket",
+    "roasted vegetables",
+    "traditional kugel"
+  ],
+  "extra_notes": null
+}

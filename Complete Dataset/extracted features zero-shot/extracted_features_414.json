@@ -1,0 +1,22 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per_person",
+  "final_price_value": 65,
+  "min_guests": 70,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK Kosher Certification",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-05-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "gourmet vegetarian options"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per_person",
+  "final_price_value": 30,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical council",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-12-10",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "roasted chicken",
+    "grilled vegetables",
+    "selection of salads"
+  ],
+  "extra_notes": "Standard package includes soft drinks and coffee for an extra $500."
+}

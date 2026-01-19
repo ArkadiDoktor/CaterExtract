@@ -1,0 +1,22 @@
+{
+  "event_type": "unknown",
+  "price_type": "fixed",
+  "final_price_value": 2600,
+  "min_guests": 60,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "full refund if canceled at least two weeks before the event date",
+  "menu_highlights": [
+    "roasted chicken",
+    "grilled vegetables",
+    "selection of salads",
+    "desserts"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,19 @@
+{
+  "event_type": "gala",
+  "price_type": "per_person",
+  "final_price_value": 70,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2024-01-15",
+  "cancellation_policy": "We typically require at least 14 days' notice for a full refund, with a 50% charge if canceled within that timeframe.",
+  "menu_highlights": [],
+  "extra_notes": null
+}

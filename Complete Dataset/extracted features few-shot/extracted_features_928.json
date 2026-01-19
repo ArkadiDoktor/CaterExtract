@@ -1,0 +1,17 @@
+{
+  "event_type": "gala",
+  "price_type": "per_person",
+  "final_price_value": 45,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": [],
+  "extra_notes": "Staff and necessary equipment for setup will be provided."
+}

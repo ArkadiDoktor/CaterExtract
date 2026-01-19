@@ -1,0 +1,26 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "range",
+  "final_price_value": 50,
+  "min_guests": 150,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "beef brisket",
+    "herb-roasted chicken",
+    "vegetarian lasagna",
+    "appetizers",
+    "desserts"
+  ],
+  "extra_notes": "premium bar package available for an additional $15 per person"
+}

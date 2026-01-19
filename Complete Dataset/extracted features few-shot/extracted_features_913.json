@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 65,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "We require a notice of at least 10 days before the event for a full refund of any deposits made. If you need to cancel within that timeframe, we can discuss potential alternatives.",
+  "menu_highlights": [
+    "three-course meal",
+    "selection of beverages"
+  ],
+  "extra_notes": null
+}

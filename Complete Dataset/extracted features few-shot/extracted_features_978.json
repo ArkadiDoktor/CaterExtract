@@ -1,0 +1,20 @@
+{
+  "event_type": "corporate",
+  "price_type": "range",
+  "final_price_value": 11250,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-05-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-crusted salmon",
+    "vegetable risotto"
+  ],
+  "extra_notes": null
+}

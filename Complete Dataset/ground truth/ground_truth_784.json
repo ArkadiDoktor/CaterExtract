@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 7500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK Kosher Certification",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "March 15th",
+  "cancellation_policy": "up to seven days before for full refund, 50% fee thereafter",
+  "menu_highlights": "grilled chicken, vegetable stir-fry, gourmet salads",
+  "extra_notes": null
+}

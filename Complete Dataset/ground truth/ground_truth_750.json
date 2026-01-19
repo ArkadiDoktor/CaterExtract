@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "fixed price",
+  "final_price_value": 7500,
+  "min_guests": 40,
+  "max_guests": 220,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free available",
+  "event_date": "2023-04-15",
+  "cancellation_policy": "10 days for full refund, 50% refund within 10 days",
+  "menu_highlights": "herb-roasted chicken, quinoa salad, assorted pastries",
+  "extra_notes": null
+}

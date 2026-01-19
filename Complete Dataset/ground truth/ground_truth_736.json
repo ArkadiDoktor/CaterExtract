@@ -1,0 +1,17 @@
+{
+  "event_type": "conference",
+  "price_type": "per person",
+  "final_price_value": 50,
+  "min_guests": 80,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical council",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": "Includes full buffet setup, staff for serving and cleanup."
+}

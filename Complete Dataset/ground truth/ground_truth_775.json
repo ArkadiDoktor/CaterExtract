@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per person",
+  "final_price_value": 10200,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical council",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian available",
+  "event_date": "2024-04-15",
+  "cancellation_policy": "full refund if notified at least two weeks prior",
+  "menu_highlights": "herb-roasted chicken, grilled vegetables, decadent desserts",
+  "extra_notes": "120 guests, bar service is an additional $15 per person"
+}

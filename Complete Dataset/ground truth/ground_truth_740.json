@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 3800,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2023-12-15",
+  "cancellation_policy": "full refund if canceled at least two weeks in advance",
+  "menu_highlights": [
+    "grilled chicken skewers",
+    "vegetarian lasagna",
+    "fresh salads"
+  ],
+  "extra_notes": "setup and staffing requirements to be discussed"
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "bar mitzvah",
+  "price_type": "fixed price",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "adjustments up to two weeks before the event",
+  "menu_highlights": "brisket, chicken, sides, salad",
+  "extra_notes": "includes all necessary serving equipment"
+}

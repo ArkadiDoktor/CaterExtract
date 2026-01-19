@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 5625,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "Full refund up to two weeks before; 50% fee thereafter",
+  "menu_highlights": [
+    "grilled salmon",
+    "herb-crusted chicken",
+    "vegetarian dishes"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "fixed price",
+  "final_price_value": 5250,
+  "min_guests": 75,
+  "max_guests": 150,
+  "includes_vat": 15,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-03-15",
+  "cancellation_policy": "Cancellations up to 30 days before receive full refund; within 30 days, 25% deposit retained.",
+  "menu_highlights": "herb-crusted chicken, grilled salmon, vegetarian dishes",
+  "extra_notes": null
+}

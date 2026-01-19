@@ -1,0 +1,20 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 8400,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2023-11-15",
+  "cancellation_policy": "changes up to seven days prior without penalty",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "grilled vegetable skewers"
+  ],
+  "extra_notes": "setup and staff included"
+}

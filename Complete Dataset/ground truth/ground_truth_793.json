@@ -1,0 +1,22 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per person",
+  "final_price_value": 50,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "14 days notice for full refund, 50% deposit retained if within 14 days",
+  "menu_highlights": [
+    "meat and dairy dishes"
+  ],
+  "extra_notes": "simplified menu for lower price"
+}

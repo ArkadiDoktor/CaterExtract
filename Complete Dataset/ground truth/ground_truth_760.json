@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "fixed price",
+  "final_price_value": 2500,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-05-15",
+  "cancellation_policy": "two weeks prior for full refund",
+  "menu_highlights": "herb-crusted chicken, roasted vegetables, dessert display",
+  "extra_notes": "setup and staffing details pending"
+}

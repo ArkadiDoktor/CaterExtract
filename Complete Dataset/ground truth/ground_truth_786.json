@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 14000,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbi",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "accommodate various dietary needs",
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-crusted salmon, roasted vegetable medley, gourmet salads, mini cheesecakes, fruit tarts",
+  "extra_notes": "setup and staffing included"
+}

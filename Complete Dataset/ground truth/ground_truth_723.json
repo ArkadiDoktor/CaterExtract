@@ -1,0 +1,17 @@
+{
+  "event_type": "gala",
+  "price_type": "per person",
+  "final_price_value": 6750,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-01-15",
+  "cancellation_policy": "two weeks prior for a full refund",
+  "menu_highlights": "herb-roasted chicken, grilled vegetable lasagna, seasonal salad bar",
+  "extra_notes": null
+}

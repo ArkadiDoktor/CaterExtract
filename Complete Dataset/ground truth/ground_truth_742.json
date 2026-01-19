@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 9000,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free",
+  "event_date": "2024-04-15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-marinated chicken, roasted vegetable platters",
+  "extra_notes": "buffet setup, staffing, equipment included"
+}

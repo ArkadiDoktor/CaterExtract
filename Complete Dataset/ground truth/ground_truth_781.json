@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "fixed price",
+  "final_price_value": 9000,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken, roasted vegetables, gourmet salads",
+  "extra_notes": "beverages include soft drinks and mineral water, no full bar included"
+}

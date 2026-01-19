@@ -1,0 +1,17 @@
+{
+  "event_type": "conference",
+  "price_type": "fixed price",
+  "final_price_value": 6750,
+  "min_guests": 100,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free, nut-free",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "allow changes or cancellations up to 14 days before the event without penalty; 50% charge after that",
+  "menu_highlights": "grilled chicken, seasonal vegetable medley, assorted salads, vegetarian pasta options",
+  "extra_notes": null
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "fixed price",
+  "final_price_value": 9000,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-06-15",
+  "cancellation_policy": "full refund if canceled at least 30 days in advance",
+  "menu_highlights": "herb-roasted chicken, grilled vegetable skewers, a variety of gourmet desserts",
+  "extra_notes": "setup and staffing arrangements to be confirmed"
+}

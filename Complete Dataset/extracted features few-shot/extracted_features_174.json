@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed",
+  "final_price_value": 65,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-marinated roasted chicken",
+    "grilled vegetable skewers",
+    "gourmet salads",
+    "assorted pastries"
+  ],
+  "extra_notes": null
+}

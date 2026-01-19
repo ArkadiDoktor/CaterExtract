@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 45,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Rabbinical Council",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "grilled chicken with roasted vegetables",
+    "beef brisket",
+    "cheesecake",
+    "tiramisu"
+  ],
+  "extra_notes": null
+}

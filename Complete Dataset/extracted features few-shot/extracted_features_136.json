@@ -1,0 +1,25 @@
+{
+  "event_type": "charity gala",
+  "price_type": "fixed",
+  "final_price_value": 60,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "Notice of at least two weeks prior to the event for any full refunds.",
+  "menu_highlights": [
+    "roasted chicken",
+    "vegetarian lasagna",
+    "seasonal vegetable platters",
+    "gourmet salads"
+  ],
+  "extra_notes": null
+}

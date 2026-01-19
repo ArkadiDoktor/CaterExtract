@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed",
+  "final_price_value": 65,
+  "min_guests": 150,
+  "max_guests": 200,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "We typically require notice at least one week prior to the event for a full refund of any deposits made.",
+  "menu_highlights": [],
+  "extra_notes": null
+}

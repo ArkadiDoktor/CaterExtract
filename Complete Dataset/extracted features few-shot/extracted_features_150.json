@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate",
+  "price_type": "per_person",
+  "final_price_value": 30,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "We require a notice of at least two weeks prior to the event for a full refund. After that, a cancellation fee of 50% of the total cost would apply.",
+  "menu_highlights": [
+    "grilled chicken",
+    "roasted vegetables",
+    "gourmet salads"
+  ],
+  "extra_notes": null
+}

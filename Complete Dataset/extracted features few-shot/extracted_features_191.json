@@ -1,0 +1,21 @@
+{
+  "event_type": "gala",
+  "price_type": "per_person",
+  "final_price_value": 50,
+  "min_guests": 100,
+  "max_guests": null,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "OK Kosher Certification",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "allows for any changes up to two weeks before the event",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "roasted vegetable quinoa",
+    "selection of seasonal salads"
+  ],
+  "extra_notes": null
+}

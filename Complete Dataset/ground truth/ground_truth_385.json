@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 1540,
+  "min_guests": 50,
+  "max_guests": 70,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical council",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "various dietary accommodations available",
+  "event_date": "November 15th",
+  "cancellation_policy": null,
+  "menu_highlights": "pasta dishes and salads",
+  "extra_notes": null
+}

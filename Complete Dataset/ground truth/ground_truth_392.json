@@ -1,0 +1,20 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed price",
+  "final_price_value": 6000,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "strict rabbinical supervision",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian and gluten-free",
+  "event_date": "November 15th",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-marinated chicken",
+    "vegetarian lasagna"
+  ],
+  "extra_notes": "staff for setup and service, all necessary equipment"
+}

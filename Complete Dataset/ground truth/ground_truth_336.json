@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 95,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "2024-06-15",
+  "cancellation_policy": "changes allowed up to one month before the event",
+  "menu_highlights": "brisket, assorted salads",
+  "extra_notes": "includes full service, setup, and cleanup"
+}

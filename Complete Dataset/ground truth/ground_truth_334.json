@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per person",
+  "final_price_value": 6000,
+  "min_guests": 150,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical council",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegan, gluten-free",
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-roasted chicken, vegetarian lasagna, seasonal salads",
+  "extra_notes": "setup and staffing requirements to be discussed"
+}

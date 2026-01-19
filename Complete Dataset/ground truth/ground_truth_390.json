@@ -1,0 +1,17 @@
+{
+  "event_type": "community gala",
+  "price_type": "per person",
+  "final_price_value": 7500,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "April 15th",
+  "cancellation_policy": "full refund with two weeks notice",
+  "menu_highlights": null,
+  "extra_notes": null
+}

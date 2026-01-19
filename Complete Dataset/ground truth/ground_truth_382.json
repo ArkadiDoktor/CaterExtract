@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 2940,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "72 hours",
+  "menu_highlights": "grilled chicken, roasted vegetable platters",
+  "extra_notes": "beverage package available separately"
+}

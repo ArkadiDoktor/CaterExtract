@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per person",
+  "final_price_value": 6000,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "full dietary accommodations available",
+  "event_date": "November 15th",
+  "cancellation_policy": "full refund up to two weeks before the event",
+  "menu_highlights": "herb-roasted chicken, vegetable lasagna, Mediterranean salad, seasonal desserts",
+  "extra_notes": "setup and staffing included"
+}

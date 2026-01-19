@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 4000,
+  "min_guests": 75,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK Kosher Certification",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, nut-free",
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken, vegetarian pasta, seasonal salads",
+  "extra_notes": "setup, serving staff, equipment included"
+}

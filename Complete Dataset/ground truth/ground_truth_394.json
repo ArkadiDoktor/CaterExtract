@@ -1,0 +1,17 @@
+{
+  "event_type": "gala",
+  "price_type": "per person",
+  "final_price_value": 10000,
+  "min_guests": 100,
+  "max_guests": 300,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "March 15",
+  "cancellation_policy": "full refunds if canceled at least two weeks prior",
+  "menu_highlights": "two-course meal with meat-based options",
+  "extra_notes": null
+}

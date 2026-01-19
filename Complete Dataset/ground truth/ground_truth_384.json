@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per person",
+  "final_price_value": 9000,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-crusted chicken, grilled vegetable skewers, gourmet salads",
+  "extra_notes": "setup and staff included"
+}

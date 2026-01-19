@@ -1,0 +1,21 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 6800,
+  "min_guests": 80,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Orthodox Rabbi",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-05-14",
+  "cancellation_policy": "to be discussed",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "roasted vegetables",
+    "artisanal breads"
+  ],
+  "extra_notes": "setup and staffing details to be finalized"
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 9750,
+  "min_guests": 100,
+  "max_guests": 200,
+  "includes_vat": null,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "June 15th",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": "Includes setup and staff service."
+}

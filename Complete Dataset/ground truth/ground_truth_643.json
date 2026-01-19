@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed price",
+  "final_price_value": 6750,
+  "min_guests": 100,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-03-15",
+  "cancellation_policy": "full refund up to two weeks before the event date",
+  "menu_highlights": "grilled chicken, vegetarian pasta, seasonal salads",
+  "extra_notes": "setup and staffing included"
+}

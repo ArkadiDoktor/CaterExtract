@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 7000,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "full refund if canceled up to three weeks prior",
+  "menu_highlights": "grilled salmon, beef brisket, roasted vegetables",
+  "extra_notes": "setup and staffing available"
+}

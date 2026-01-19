@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate event",
+  "price_type": "fixed price",
+  "final_price_value": 3600,
+  "min_guests": 50,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "two weeks notice",
+  "menu_highlights": "brisket, roasted vegetables",
+  "extra_notes": "staffing and equipment included"
+}

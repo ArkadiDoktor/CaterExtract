@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 3200,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "10 days prior for full refund",
+  "menu_highlights": null,
+  "extra_notes": null
+}

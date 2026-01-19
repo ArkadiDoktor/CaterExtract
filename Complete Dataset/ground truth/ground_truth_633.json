@@ -1,0 +1,17 @@
+{
+  "event_type": "Corporate Event",
+  "price_type": "per person",
+  "final_price_value": 42,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "Accommodations available",
+  "event_date": "2023-06-15",
+  "cancellation_policy": "Full refund if canceled at least two weeks prior",
+  "menu_highlights": "Grilled chicken, beef brisket, vegetarian options",
+  "extra_notes": "Setup and staffing included"
+}

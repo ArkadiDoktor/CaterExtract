@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 19000,
+  "min_guests": 100,
+  "max_guests": 300,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Rabbinical Council",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-12-10",
+  "cancellation_policy": "full refund if canceled two weeks prior",
+  "menu_highlights": "herb-crusted chicken, roasted vegetable lasagna, fresh garden salad",
+  "extra_notes": "setup and staffing included"
+}

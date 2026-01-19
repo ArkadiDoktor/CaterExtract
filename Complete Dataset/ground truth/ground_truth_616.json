@@ -1,0 +1,17 @@
+{
+  "event_type": "conference",
+  "price_type": "fixed price",
+  "final_price_value": 4125,
+  "min_guests": 75,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-12-05",
+  "cancellation_policy": null,
+  "menu_highlights": "appetizers, main course, dessert",
+  "extra_notes": "setup and staffing included"
+}

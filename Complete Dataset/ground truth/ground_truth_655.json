@@ -1,0 +1,20 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per person",
+  "final_price_value": 10500,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2024-05-15",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": "Flexibility in pricing if confirmed quickly."
+}

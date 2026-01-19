@@ -1,0 +1,17 @@
+{
+  "event_type": "conference",
+  "price_type": "per person",
+  "final_price_value": 6750,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-04-15",
+  "cancellation_policy": "changes up to one week before the event without penalties, 20% deposit retained after that",
+  "menu_highlights": "roasted chicken, grilled vegetable platters, gourmet salads",
+  "extra_notes": null
+}

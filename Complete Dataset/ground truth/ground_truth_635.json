@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per person",
+  "final_price_value": 7200,
+  "min_guests": 120,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "March 15th",
+  "cancellation_policy": "notice at least ten days prior to the event for a full refund",
+  "menu_highlights": "three-course meal, selection of non-alcoholic beverages",
+  "extra_notes": "beverage package available for an additional cost of $15 per guest"
+}

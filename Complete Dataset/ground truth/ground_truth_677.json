@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "range",
+  "final_price_value": 60,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "May 15",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": null
+}

@@ -1,0 +1,20 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 3200,
+  "min_guests": 75,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegan"
+  ],
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": "Includes setup and staff"
+}

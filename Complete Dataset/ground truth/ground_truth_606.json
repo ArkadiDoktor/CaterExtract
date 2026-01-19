@@ -1,0 +1,17 @@
+{
+  "event_type": "gathering",
+  "price_type": "per person",
+  "final_price_value": 50,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbinical Council",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian",
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken, vegetarian pasta, salads",
+  "extra_notes": "setup and staffing details requested"
+}

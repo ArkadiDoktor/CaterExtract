@@ -1,0 +1,21 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 65,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2023-11-12",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "grilled chicken with rosemary",
+    "beef brisket",
+    "chocolate mousse"
+  ],
+  "extra_notes": null
+}

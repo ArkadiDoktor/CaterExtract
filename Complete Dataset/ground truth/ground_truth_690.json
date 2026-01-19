@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 7500,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegetarian",
+  "event_date": "2023-05-15",
+  "cancellation_policy": null,
+  "menu_highlights": "roasted vegetable platters, salads",
+  "extra_notes": null
+}

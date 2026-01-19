@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate event",
+  "price_type": "fixed price",
+  "final_price_value": 9000,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-04-15",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken, vegetarian lasagna, seasonal roasted vegetables",
+  "extra_notes": "setup timing to be confirmed"
+}

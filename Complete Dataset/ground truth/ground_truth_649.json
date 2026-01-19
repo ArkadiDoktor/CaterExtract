@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "fixed price",
+  "final_price_value": 3600,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": null,
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-01-15",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled salmon, stuffed chicken breast, gourmet salads",
+  "extra_notes": null
+}

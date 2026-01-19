@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 4200,
+  "min_guests": 120,
+  "max_guests": 120,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free",
+  "event_date": "2024-03-15",
+  "cancellation_policy": "14 days notice for full refund",
+  "menu_highlights": "herb-crusted salmon, roasted vegetable lasagna, seasonal salads",
+  "extra_notes": "setup and staffing included"
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate event",
+  "price_type": "fixed price",
+  "final_price_value": 3800,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": "quinoa salad, roasted vegetable platter",
+  "extra_notes": null
+}

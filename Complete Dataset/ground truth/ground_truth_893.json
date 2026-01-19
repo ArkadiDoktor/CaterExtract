@@ -1,0 +1,25 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per person",
+  "final_price_value": 65,
+  "min_guests": 80,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Kosher Certification Authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2024-03-15",
+  "cancellation_policy": "Full refund up to two weeks before, 50% refund within a week",
+  "menu_highlights": [
+    "grilled chicken skewers",
+    "stuffed mushrooms",
+    "vegetable lasagna",
+    "assorted desserts"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per person",
+  "final_price_value": 4200,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian available",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "minimum of two weeks' notice",
+  "menu_highlights": "three-course meal featuring meats and vegetarian options",
+  "extra_notes": null
+}

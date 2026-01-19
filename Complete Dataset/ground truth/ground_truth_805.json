@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 6500,
+  "min_guests": 50,
+  "max_guests": 175,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, allergies",
+  "event_date": "2024-03-15",
+  "cancellation_policy": "14 days prior",
+  "menu_highlights": "herb-roasted chicken, quinoa salad, chocolate mousse",
+  "extra_notes": null
+}

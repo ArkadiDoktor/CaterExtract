@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 3000,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian options available",
+  "event_date": "March 15th",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "roasted vegetable platter",
+    "mini cheesecakes"
+  ],
+  "extra_notes": "cost of beverage service is $10 per person"
+}

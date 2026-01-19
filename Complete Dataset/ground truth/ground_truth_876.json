@@ -1,0 +1,17 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "fixed price",
+  "final_price_value": 8400,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Kashrut Authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, vegan",
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": "brisket, roasted vegetable pasta, garden salad",
+  "extra_notes": "setup and service staff included"
+}

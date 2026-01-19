@@ -1,0 +1,17 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "fixed price",
+  "final_price_value": 70,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": null
+}

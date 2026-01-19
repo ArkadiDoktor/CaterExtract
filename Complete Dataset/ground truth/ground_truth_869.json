@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per person",
+  "final_price_value": 5250,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "2024-03-15",
+  "cancellation_policy": "flexible",
+  "menu_highlights": "roast beef with seasonal vegetables, vegan option, selection of desserts",
+  "extra_notes": "full setup with staff included"
+}

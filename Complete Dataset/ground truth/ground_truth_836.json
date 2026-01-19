@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "fixed price",
+  "final_price_value": 3000,
+  "min_guests": 40,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian options available",
+  "event_date": "March 15th",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": "buffet service included, setup and staffing provided"
+}

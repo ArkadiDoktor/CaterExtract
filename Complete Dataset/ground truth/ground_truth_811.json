@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 7500,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "grilled vegetable lasagna",
+    "seasonal salads"
+  ],
+  "extra_notes": null
+}

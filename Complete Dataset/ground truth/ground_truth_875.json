@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 6750,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free, nut-free",
+  "event_date": "2024-03-15",
+  "cancellation_policy": "two weeks' notice for a full refund of deposit",
+  "menu_highlights": "two-course meal and dessert",
+  "extra_notes": "setup and staffing arrangements to be finalized"
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "fixed price",
+  "final_price_value": 7000,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "rabbinical supervision",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-roasted chicken, grilled vegetable platters, salads",
+  "extra_notes": "setup and staffing to be discussed"
+}

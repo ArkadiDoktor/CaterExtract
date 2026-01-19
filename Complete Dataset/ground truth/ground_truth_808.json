@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 45,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegetarian",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "72 hours notice",
+  "menu_highlights": "roasted chicken with rosemary, creamy pasta primavera, fresh garden salad",
+  "extra_notes": "setup and staffing included"
+}

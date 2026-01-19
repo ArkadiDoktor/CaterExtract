@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per person",
+  "final_price_value": 9000,
+  "min_guests": 100,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegetarian",
+  "event_date": "June 15",
+  "cancellation_policy": "two weeks prior",
+  "menu_highlights": "two appetizers, main course, dessert",
+  "extra_notes": "setup and staff included"
+}

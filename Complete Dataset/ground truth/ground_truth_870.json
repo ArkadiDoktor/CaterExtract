@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 1760,
+  "min_guests": 50,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-04-15",
+  "cancellation_policy": null,
+  "menu_highlights": "roasted chicken, grilled vegetable platters, desserts",
+  "extra_notes": null
+}

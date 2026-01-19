@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 60,
+  "min_guests": 150,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian options available",
+  "event_date": "March 15th",
+  "cancellation_policy": "full refund if canceled at least two weeks prior",
+  "menu_highlights": "appetizers, main courses, desserts",
+  "extra_notes": "includes setup and serving staff"
+}

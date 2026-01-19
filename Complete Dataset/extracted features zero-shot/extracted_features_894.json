@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per_person",
+  "final_price_value": 5400,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "meat",
+    "dairy"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "minimum of 14 days' notice for any cancellations, which would incur a 50% charge of the total estimated cost",
+  "menu_highlights": [
+    "kosher meat options",
+    "kosher dairy options"
+  ],
+  "extra_notes": null
+}

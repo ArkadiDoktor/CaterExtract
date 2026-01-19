@@ -1,0 +1,22 @@
+{
+  "event_type": "Annual Gala",
+  "price_type": "per_person",
+  "final_price_value": 75,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2023-12-15",
+  "cancellation_policy": "14 days before the event",
+  "menu_highlights": [
+    "meat options",
+    "dairy options"
+  ],
+  "extra_notes": null
+}

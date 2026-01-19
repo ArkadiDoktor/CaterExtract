@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 3375,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "any changes to the guest count after the final agreement may incur additional charges",
+  "menu_highlights": [
+    "grilled chicken",
+    "roasted vegetables",
+    "gourmet salads"
+  ],
+  "extra_notes": null
+}

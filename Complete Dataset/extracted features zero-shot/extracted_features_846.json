@@ -1,0 +1,20 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per_person",
+  "final_price_value": 2500,
+  "min_guests": 30,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "meat",
+    "vegetarian"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [],
+  "extra_notes": null
+}

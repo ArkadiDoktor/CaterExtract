@@ -1,0 +1,25 @@
+{
+  "event_type": "conference",
+  "price_type": "fixed",
+  "final_price_value": 45,
+  "min_guests": 150,
+  "max_guests": 220,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "event_date": "2023-04-15",
+  "cancellation_policy": "14 days' notice",
+  "menu_highlights": [
+    "grilled chicken with herb sauce",
+    "quinoa salad",
+    "seasonal vegetables"
+  ],
+  "extra_notes": null
+}

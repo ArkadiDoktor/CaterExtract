@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 65,
+  "min_guests": 50,
+  "max_guests": 175,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "allergies",
+    "specific diets"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "14 days prior to the event",
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "quinoa salad",
+    "rich chocolate mousse"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 9000,
+  "min_guests": 50,
+  "max_guests": 160,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Jewish community board",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegan"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "changes up to one week before the event",
+  "menu_highlights": [
+    "smoked salmon canap\u00e9s",
+    "stuffed mushrooms",
+    "mini cheesecakes",
+    "chocolate mousse"
+  ],
+  "extra_notes": null
+}

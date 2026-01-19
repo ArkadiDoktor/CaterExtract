@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 70,
+  "min_guests": 75,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Vaad of New York",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "14 days before the event",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "chocolate mousse"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 11250,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbinical Council of America",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-04-15",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": "setup to serving included"
+}

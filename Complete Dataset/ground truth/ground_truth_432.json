@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 5400,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free available",
+  "event_date": "March 15th",
+  "cancellation_policy": "two weeks prior to the event",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "grilled vegetable lasagna",
+    "seasonal salads"
+  ],
+  "extra_notes": null
+}

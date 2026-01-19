@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 5000,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "local Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegetarian",
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-crusted beef tenderloin, creamy mushroom risotto, seasonal vegetable medley",
+  "extra_notes": null
+}

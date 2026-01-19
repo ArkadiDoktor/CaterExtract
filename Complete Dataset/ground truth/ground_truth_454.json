@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "fixed price",
+  "final_price_value": 3375,
+  "min_guests": 30,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "full refund with 14 days' notice, 50% refund within 14 days",
+  "menu_highlights": "grilled chicken, beef brisket, variety of salads",
+  "extra_notes": "setup and staffing included"
+}

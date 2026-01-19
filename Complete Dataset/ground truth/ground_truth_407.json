@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "fixed",
+  "final_price_value": 10200,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "strict rabbinical supervision",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian and gluten-free options",
+  "event_date": "2023-05-14",
+  "cancellation_policy": "two weeks notice for full refund",
+  "menu_highlights": "a diverse range of meat and dairy dishes",
+  "extra_notes": "setup will be completed two hours before the event"
+}

@@ -1,0 +1,21 @@
+{
+  "event_type": "gala",
+  "price_type": "fixed price",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Rabbinical council",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "roasted chicken",
+    "vegetarian lasagna",
+    "variety of salads"
+  ],
+  "extra_notes": "setup, staffing, and equipment included"
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per person",
+  "final_price_value": 7050,
+  "min_guests": 150,
+  "max_guests": 300,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OU",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken, roasted vegetables, gourmet salads",
+  "extra_notes": "setup and service included"
+}

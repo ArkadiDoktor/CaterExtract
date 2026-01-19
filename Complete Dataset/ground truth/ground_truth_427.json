@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per person",
+  "final_price_value": 10500,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "lighter dishes available",
+  "event_date": "October 15th",
+  "cancellation_policy": null,
+  "menu_highlights": "three-course meal, roasted vegetable platters, fish fillets",
+  "extra_notes": "staff and necessary equipment included"
+}

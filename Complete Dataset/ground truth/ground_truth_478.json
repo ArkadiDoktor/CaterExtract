@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 7500,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical council",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "March 15",
+  "cancellation_policy": null,
+  "menu_highlights": "roasted chicken, seasonal vegetables, salads, pasta primavera",
+  "extra_notes": "setup ready by 5 PM"
+}

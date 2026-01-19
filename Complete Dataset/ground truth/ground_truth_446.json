@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 5200,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": "vegan options available",
+  "event_date": "2023-12-10",
+  "cancellation_policy": null,
+  "menu_highlights": "roasted chicken, creamy vegetarian pasta, quinoa and roasted vegetable dish",
+  "extra_notes": "setup assistance and serving equipment needed"
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate dinner",
+  "price_type": "per person",
+  "final_price_value": 5250,
+  "min_guests": 50,
+  "max_guests": 80,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-crusted chicken, stuffed portobello mushrooms",
+  "extra_notes": "setup and staffing included"
+}

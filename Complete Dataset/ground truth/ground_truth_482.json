@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "fixed price",
+  "final_price_value": 10500,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbinical Council of Greater Washington",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "June 15",
+  "cancellation_policy": null,
+  "menu_highlights": "meat and dairy options",
+  "extra_notes": null
+}

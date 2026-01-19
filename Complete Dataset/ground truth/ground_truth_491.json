@@ -1,0 +1,17 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "fixed price",
+  "final_price_value": 55,
+  "min_guests": 100,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegetarian",
+  "event_date": "March 15th",
+  "cancellation_policy": "two weeks prior for full refund, 25% fee after",
+  "menu_highlights": "brisket, latkes",
+  "extra_notes": null
+}

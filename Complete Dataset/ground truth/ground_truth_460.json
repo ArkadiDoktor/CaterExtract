@@ -1,0 +1,17 @@
+{
+  "event_type": "gala",
+  "price_type": "per person",
+  "final_price_value": 42,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orchard Heights Rabbinical Council",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken, vegetarian lasagna, seasonal salads",
+  "extra_notes": "soft drinks and coffee included, discount for 200 guests"
+}

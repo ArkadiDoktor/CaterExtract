@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed price",
+  "final_price_value": 9750,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Jerusalem Kashrut Authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free, pareve",
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": "meat and dairy dishes",
+  "extra_notes": "setup and staffing included"
+}

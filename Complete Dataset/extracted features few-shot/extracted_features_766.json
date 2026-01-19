@@ -1,0 +1,20 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "fixed",
+  "final_price_value": 7500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbi",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-06-15",
+  "cancellation_policy": "30 days prior to the event for a full refund; 50% fee for cancellations closer to the date",
+  "menu_highlights": [],
+  "extra_notes": null
+}

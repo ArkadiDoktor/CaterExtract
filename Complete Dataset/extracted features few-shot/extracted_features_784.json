@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate",
+  "price_type": "per_person",
+  "final_price_value": 40,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK Kosher Certification",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "We allow cancellations up to seven days before the event date for a full refund of any deposits made. After that period, we would retain a 50% cancellation fee.",
+  "menu_highlights": [
+    "grilled chicken",
+    "vegetable stir-fry",
+    "gourmet salads"
+  ],
+  "extra_notes": null
+}

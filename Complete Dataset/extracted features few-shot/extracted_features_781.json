@@ -1,0 +1,21 @@
+{
+  "event_type": "charity gala",
+  "price_type": "fixed",
+  "final_price_value": 50,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "grilled chicken",
+    "roasted vegetables",
+    "gourmet salads"
+  ],
+  "extra_notes": null
+}

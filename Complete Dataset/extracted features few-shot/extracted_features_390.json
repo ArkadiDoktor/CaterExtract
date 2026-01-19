@@ -1,0 +1,19 @@
+{
+  "event_type": "gala",
+  "price_type": "per_person",
+  "final_price_value": 50,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-04-15",
+  "cancellation_policy": "We typically require a notice of at least two weeks prior to the event for a full refund of any deposits made.",
+  "menu_highlights": [],
+  "extra_notes": null
+}

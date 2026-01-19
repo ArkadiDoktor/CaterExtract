@@ -1,0 +1,26 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per_person",
+  "final_price_value": 75,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Kashrut Authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-06-15",
+  "cancellation_policy": "We allow cancellations up to two weeks before the event for a full refund of any deposits made. After that, we can only provide a partial refund depending on costs incurred.",
+  "menu_highlights": [
+    "grilled salmon",
+    "roasted vegetable lasagna",
+    "gourmet salads",
+    "assorted pastries",
+    "chocolate fountain"
+  ],
+  "extra_notes": null
+}

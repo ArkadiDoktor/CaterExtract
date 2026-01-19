@@ -1,0 +1,22 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 50,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "non-alcoholic"
+  ],
+  "event_date": "2023-03-25",
+  "cancellation_policy": "changes up to two weeks before the event date without penalty",
+  "menu_highlights": [
+    "sodas",
+    "juices"
+  ],
+  "extra_notes": null
+}

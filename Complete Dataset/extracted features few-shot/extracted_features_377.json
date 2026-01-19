@@ -1,0 +1,20 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "range",
+  "final_price_value": 50,
+  "min_guests": 80,
+  "max_guests": 120,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [],
+  "extra_notes": "Total of $6,500 excluding VAT."
+}

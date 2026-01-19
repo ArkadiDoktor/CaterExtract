@@ -1,0 +1,22 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per_person",
+  "final_price_value": 42,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Orthodox rabbi",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-04-15",
+  "cancellation_policy": "Notice of at least two weeks prior to the event for a full refund. After that, 50% refund.",
+  "menu_highlights": [
+    "three-course meal",
+    "setup and service staff"
+  ],
+  "extra_notes": null
+}

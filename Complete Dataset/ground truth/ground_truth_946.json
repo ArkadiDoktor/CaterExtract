@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "fixed price",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "March 15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-roasted chicken, grilled vegetable platters, salads",
+  "extra_notes": "buffet setup, staffing, beverage package available"
+}

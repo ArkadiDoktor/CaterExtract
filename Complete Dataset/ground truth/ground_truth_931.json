@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "fixed price",
+  "final_price_value": 9000,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "2024-06-15",
+  "cancellation_policy": "Full refund up to one month before; 50% fee within 30 days",
+  "menu_highlights": "honey-glazed brisket, roasted vegetable lasagna, chocolate mousse",
+  "extra_notes": null
+}

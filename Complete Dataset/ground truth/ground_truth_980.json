@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 2400,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical council",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2023-12-10",
+  "cancellation_policy": null,
+  "menu_highlights": "roasted chicken, grilled vegetables, salads",
+  "extra_notes": "setup details to be discussed"
+}

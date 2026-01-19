@@ -1,0 +1,21 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per person",
+  "final_price_value": 4200,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "various dietary needs accommodated",
+  "event_date": "November 15th",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "grilled salmon",
+    "roasted vegetable pasta",
+    "chocolate mousse"
+  ],
+  "extra_notes": "setup assistance on the day of the event"
+}

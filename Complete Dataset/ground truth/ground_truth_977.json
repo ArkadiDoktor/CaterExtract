@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "fixed price",
+  "final_price_value": 5400,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Rabbinical Council",
+  "includes_bar": "limited selection of house wines and soft drinks",
+  "menu_type": "mixed",
+  "dietary_options": "accommodations available with notice",
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": "meat and dairy options",
+  "extra_notes": "setup and staff included"
+}

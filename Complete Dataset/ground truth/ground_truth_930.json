@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 9000,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-05-15",
+  "cancellation_policy": "cancellations up to two weeks before the event for a full refund",
+  "menu_highlights": "beef brisket, roasted seasonal vegetables, chocolate mousse",
+  "extra_notes": "wine selection included"
+}

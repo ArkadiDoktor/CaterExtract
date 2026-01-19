@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 9000,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian options available",
+  "event_date": "March 15th",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-roasted chicken, grilled vegetable platter, gourmet salads",
+  "extra_notes": "bar service includes wines, beers, and soft drinks"
+}

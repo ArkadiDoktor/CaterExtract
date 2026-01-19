@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 7500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbinical Council",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-03-15",
+  "cancellation_policy": "72 hours before the event for a full refund",
+  "menu_highlights": [
+    "grilled chicken",
+    "pasta primavera",
+    "seasonal salad"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 6000,
+  "min_guests": 50,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "meat",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-06-15",
+  "cancellation_policy": "full refund if canceled at least 30 days prior",
+  "menu_highlights": "herb-crusted roast chicken, quinoa salad, seasonal roasted vegetables",
+  "extra_notes": "setup and staffing included"
+}

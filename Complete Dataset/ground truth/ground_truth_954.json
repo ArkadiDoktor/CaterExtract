@@ -1,0 +1,21 @@
+{
+  "event_type": "bar mitzvah",
+  "price_type": "fixed price",
+  "final_price_value": 4875,
+  "min_guests": 75,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "three-course meal",
+    "hors d'oeuvres",
+    "dessert station"
+  ],
+  "extra_notes": "setup process includes staffing and equipment"
+}

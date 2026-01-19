@@ -1,0 +1,17 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per person",
+  "final_price_value": 7000,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegetarian",
+  "event_date": "2024-04-15",
+  "cancellation_policy": null,
+  "menu_highlights": "appetizers, main courses, desserts",
+  "extra_notes": "setup by 6 PM, staffing for serving food"
+}

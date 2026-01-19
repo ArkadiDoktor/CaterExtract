@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 15000,
+  "min_guests": 100,
+  "max_guests": 300,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-crusted chicken, grilled vegetable lasagna, seasonal salads, chocolate mousse, fruit tart",
+  "extra_notes": "full bar service included, setup and staffing details pending"
+}

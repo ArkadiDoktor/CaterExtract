@@ -1,0 +1,17 @@
+{
+  "event_type": "conference",
+  "price_type": "per person",
+  "final_price_value": 55,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian options available",
+  "event_date": "2024-05-15",
+  "cancellation_policy": "flexible up to two weeks before the event",
+  "menu_highlights": "meat and vegetarian options, appetizers",
+  "extra_notes": "sample dishes to be provided"
+}

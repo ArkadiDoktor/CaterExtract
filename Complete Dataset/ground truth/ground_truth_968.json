@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per person",
+  "final_price_value": 6500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK Kosher",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-10-15",
+  "cancellation_policy": "two weeks in advance",
+  "menu_highlights": "brisket, roasted seasonal vegetables, pasta primavera, salad, desserts",
+  "extra_notes": "setup and staffing included"
+}

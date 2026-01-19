@@ -1,0 +1,17 @@
+{
+  "event_type": "gala",
+  "price_type": "per person",
+  "final_price_value": 11375,
+  "min_guests": 150,
+  "max_guests": 200,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "accommodates dietary restrictions",
+  "event_date": "2024-03-15",
+  "cancellation_policy": "notify at least a week in advance",
+  "menu_highlights": "herb-crusted chicken, roasted vegetable platters, selection of desserts",
+  "extra_notes": "setup and staffing included"
+}

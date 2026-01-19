@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 4560,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": null,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "2024-04-15",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": "setup, staff, equipment included"
+}

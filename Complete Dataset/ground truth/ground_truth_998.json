@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per person",
+  "final_price_value": 9000,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "rabbinical supervision",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "meat and dairy dishes, pareve options",
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": "variety of dishes to suit different tastes",
+  "extra_notes": "full buffet setup, staffing, and equipment included"
+}

@@ -1,0 +1,22 @@
+{
+  "event_type": "conference",
+  "price_type": "fixed",
+  "final_price_value": 12500,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": null,
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free"
+  ],
+  "event_date": "2023-04-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "beef brisket",
+    "roasted vegetable platters"
+  ],
+  "extra_notes": "Please prepare the formal proposal, including the cancellation policy and any additional notes regarding setup and staffing."
+}

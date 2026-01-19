@@ -1,0 +1,27 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per_person",
+  "final_price_value": 75,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Kashrut Authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegan"
+  ],
+  "event_date": "2023-12-10",
+  "cancellation_policy": "full refunds up to two weeks prior to the event",
+  "menu_highlights": [
+    "grilled salmon",
+    "herb-roasted chicken",
+    "seasonal vegetables",
+    "stuffed bell peppers",
+    "roasted vegetable platters",
+    "quinoa salad with seasonal greens"
+  ],
+  "extra_notes": null
+}

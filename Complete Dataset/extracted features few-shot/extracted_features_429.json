@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "fixed",
+  "final_price_value": 5400,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "cancellations up to 14 days before the event",
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "vegetarian lasagna",
+    "seasonal salad"
+  ],
+  "extra_notes": null
+}

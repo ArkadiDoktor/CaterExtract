@@ -1,0 +1,19 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per_person",
+  "final_price_value": 60,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "strict rabbinical supervision",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegan"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "at least two weeks notice",
+  "menu_highlights": [],
+  "extra_notes": null
+}

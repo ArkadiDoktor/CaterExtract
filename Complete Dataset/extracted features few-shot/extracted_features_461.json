@@ -1,0 +1,26 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per_person",
+  "final_price_value": 70,
+  "min_guests": 100,
+  "max_guests": 180,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-04-15",
+  "cancellation_policy": "full refund up to one week before the event",
+  "menu_highlights": [
+    "hors d'oeuvres",
+    "grilled chicken",
+    "beef",
+    "seasonal vegetables",
+    "dessert buffet"
+  ],
+  "extra_notes": null
+}

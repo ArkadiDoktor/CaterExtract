@@ -1,0 +1,22 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per_person",
+  "final_price_value": 14000,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "selection of wines",
+    "soft drinks"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per_person",
+  "final_price_value": 4200,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free"
+  ],
+  "event_date": "2023-12-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "appetizers",
+    "main courses",
+    "desserts"
+  ],
+  "extra_notes": null
+}

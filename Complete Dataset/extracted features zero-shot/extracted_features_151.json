@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate_event",
+  "price_type": "per_person",
+  "final_price_value": 30,
+  "min_guests": 80,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "notice of at least one week prior to the event",
+  "menu_highlights": [
+    "roasted chicken",
+    "vegetarian lasagna",
+    "seasonal salads",
+    "dessert options"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,25 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per_person",
+  "final_price_value": 52,
+  "min_guests": 80,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbi Cohen",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free"
+  ],
+  "event_date": "2023-10-15",
+  "cancellation_policy": "changes up to one week before the event",
+  "menu_highlights": [
+    "herb-crusted salmon",
+    "roasted vegetable medley",
+    "chocolate mousse",
+    "quinoa salad",
+    "grilled chicken"
+  ],
+  "extra_notes": null
+}

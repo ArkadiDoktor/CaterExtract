@@ -1,0 +1,24 @@
+{
+  "event_type": "gala",
+  "price_type": "per_person",
+  "final_price_value": 12750,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegan",
+    "gluten-free"
+  ],
+  "event_date": "2023-12-15",
+  "cancellation_policy": "cancellations made more than two weeks in advance will incur a 25% fee, while cancellations within two weeks are non-refundable",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "seared salmon",
+    "variety of vegetarian appetizers"
+  ],
+  "extra_notes": null
+}

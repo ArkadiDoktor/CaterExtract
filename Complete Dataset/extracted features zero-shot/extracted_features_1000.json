@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate_event",
+  "price_type": "per_person",
+  "final_price_value": 42,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegan"
+  ],
+  "event_date": "2023-10-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "mixed selection",
+    "beverage package"
+  ],
+  "extra_notes": "setup by 5 PM"
+}

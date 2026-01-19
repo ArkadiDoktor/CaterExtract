@@ -1,0 +1,26 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed",
+  "final_price_value": 4500,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbinical Council of America",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "notice of at least 14 days prior to the event for a full refund; retain 50% deposit if canceled after that",
+  "menu_highlights": [
+    "grilled chicken",
+    "roasted vegetables",
+    "assorted salads",
+    "chocolate mousse",
+    "fruit tarts",
+    "cheesecake"
+  ],
+  "extra_notes": null
+}

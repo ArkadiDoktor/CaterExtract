@@ -1,0 +1,27 @@
+{
+  "event_type": "wedding",
+  "price_type": "per_person",
+  "final_price_value": 10500,
+  "min_guests": 120,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "strict rabbinical supervision",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-10-15",
+  "cancellation_policy": "full refund up to 30 days before the event date",
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "variety of salads",
+    "delicious desserts",
+    "beef brisket",
+    "selection of seasonal vegetables",
+    "pasta dish"
+  ],
+  "extra_notes": null
+}

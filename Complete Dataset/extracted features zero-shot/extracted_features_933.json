@@ -1,0 +1,23 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per_person",
+  "final_price_value": 50,
+  "min_guests": 75,
+  "max_guests": 75,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-11-10",
+  "cancellation_policy": "at least two weeks' notice for a full refund, 50% charge for cancellations made closer to the event date",
+  "menu_highlights": [
+    "seasonal meats",
+    "variety of sides",
+    "vegetarian options"
+  ],
+  "extra_notes": null
+}

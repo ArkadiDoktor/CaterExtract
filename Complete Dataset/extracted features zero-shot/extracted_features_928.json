@@ -1,0 +1,19 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per_person",
+  "final_price_value": 4800,
+  "min_guests": 70,
+  "max_guests": 90,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "mixed meat and dairy options"
+  ],
+  "extra_notes": "Please provide staff for the event and all necessary equipment for setup"
+}

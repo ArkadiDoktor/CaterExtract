@@ -1,0 +1,26 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per_person",
+  "final_price_value": 42,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "appetizers",
+    "two main courses",
+    "dessert",
+    "grilled salmon",
+    "roasted vegetable pasta",
+    "chocolate mousse"
+  ],
+  "extra_notes": "beverages are additional cost"
+}

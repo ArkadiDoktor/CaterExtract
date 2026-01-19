@@ -1,0 +1,25 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per_person",
+  "final_price_value": 70,
+  "min_guests": 90,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-05-15",
+  "cancellation_policy": "full refund if canceled at least two weeks prior to the event; partial refund up until one week before the event",
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "beef brisket",
+    "seasonal vegetables",
+    "kosher desserts"
+  ],
+  "extra_notes": null
+}

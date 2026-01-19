@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "range",
+  "final_price_value": 8000,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Star-K",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "grilled vegetable skewers",
+    "assorted desserts"
+  ],
+  "extra_notes": "Please ensure that the food is delivered and set up an hour before the event starts"
+}

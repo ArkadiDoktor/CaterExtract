@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per_person",
+  "final_price_value": 9000,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Kashrut Authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "null",
+  "menu_highlights": [
+    "grilled chicken skewers",
+    "seasonal salads",
+    "gourmet desserts"
+  ],
+  "extra_notes": "flexibility in pricing for additional guests"
+}

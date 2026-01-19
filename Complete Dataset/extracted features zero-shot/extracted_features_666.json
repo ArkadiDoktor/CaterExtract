@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per_person",
+  "final_price_value": 40,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbi Cohen",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2024-01-15",
+  "cancellation_policy": "48-hour notice before the event for any changes without incurring fees",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "grilled vegetable platters",
+    "selection of gourmet salads"
+  ],
+  "extra_notes": null
+}

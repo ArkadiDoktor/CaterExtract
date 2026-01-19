@@ -1,0 +1,27 @@
+{
+  "event_type": "corporate seminar",
+  "price_type": "fixed",
+  "final_price_value": 6500,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-06-15",
+  "cancellation_policy": "cancel up to one week before the event without penalty",
+  "menu_highlights": [
+    "appetizers",
+    "main courses",
+    "desserts",
+    "vegetarian option",
+    "chicken",
+    "beef",
+    "fish"
+  ],
+  "extra_notes": null
+}

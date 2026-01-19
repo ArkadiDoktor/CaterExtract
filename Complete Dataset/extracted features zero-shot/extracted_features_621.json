@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "range",
+  "final_price_value": 7500,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbinical Council of New York",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegan"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "full refund up to two weeks before the event",
+  "menu_highlights": [
+    "beef brisket",
+    "roasted vegetable medley",
+    "chocolate mousse"
+  ],
+  "extra_notes": null
+}

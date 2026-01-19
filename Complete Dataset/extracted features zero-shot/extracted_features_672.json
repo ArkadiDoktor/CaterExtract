@@ -1,0 +1,23 @@
+{
+  "event_type": "gala",
+  "price_type": "fixed",
+  "final_price_value": 65,
+  "min_guests": 100,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Jerusalem Rabbinate",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "dietary accommodations"
+  ],
+  "event_date": "2023-10-15",
+  "cancellation_policy": "notice of at least two weeks prior to the event for a full refund of the deposit",
+  "menu_highlights": [
+    "appetizers",
+    "main courses",
+    "desserts"
+  ],
+  "extra_notes": null
+}

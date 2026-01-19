@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "range",
+  "final_price_value": 4200,
+  "min_guests": 120,
+  "max_guests": 120,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "notice of at least 14 days prior to the event for a full refund",
+  "menu_highlights": [
+    "herb-crusted salmon",
+    "gluten-free pasta",
+    "custom salads"
+  ],
+  "extra_notes": null
+}

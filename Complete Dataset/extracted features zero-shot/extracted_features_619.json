@@ -1,0 +1,19 @@
+{
+  "event_type": "charity gala",
+  "price_type": "per_person",
+  "final_price_value": 6000,
+  "min_guests": 80,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbi Samuels",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": [],
+  "extra_notes": null
+}

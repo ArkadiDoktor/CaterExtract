@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "fixed",
+  "final_price_value": 3600,
+  "min_guests": 50,
+  "max_guests": 80,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical council",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher",
+    "specific dietary requests"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "grilled chicken with seasonal vegetables",
+    "quinoa salad",
+    "choice of desserts"
+  ],
+  "extra_notes": "basic beverage service included"
+}

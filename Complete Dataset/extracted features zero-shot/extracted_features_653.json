@@ -1,0 +1,23 @@
+{
+  "event_type": null,
+  "price_type": "per_person",
+  "final_price_value": 30,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "full refund if canceled at least two weeks prior to the event",
+  "menu_highlights": [
+    "grilled chicken with herbs",
+    "vegetarian lasagna",
+    "garden salad"
+  ],
+  "extra_notes": null
+}

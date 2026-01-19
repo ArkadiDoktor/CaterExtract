@@ -1,0 +1,23 @@
+{
+  "event_type": null,
+  "price_type": "per_person",
+  "final_price_value": 50,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Rabbinical Council",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "grilled chicken",
+    "vegetarian pasta",
+    "selection of salads"
+  ],
+  "extra_notes": "Please prepare the kosher meals according to the Rabbinical Council's standards"
+}

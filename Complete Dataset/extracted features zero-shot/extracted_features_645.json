@@ -1,0 +1,24 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed",
+  "final_price_value": 4200,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free",
+    "vegan"
+  ],
+  "event_date": "2024-04-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "grilled chicken",
+    "vegetarian lasagna",
+    "gourmet salads"
+  ],
+  "extra_notes": null
+}

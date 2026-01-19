@@ -1,0 +1,23 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per_person",
+  "final_price_value": 70,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-06-15",
+  "cancellation_policy": "14 days prior to the event for a full refund of any deposits made",
+  "menu_highlights": [
+    "stuffed peppers",
+    "roasted vegetable platters",
+    "beef brisket"
+  ],
+  "extra_notes": null
+}

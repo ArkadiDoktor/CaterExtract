@@ -1,0 +1,23 @@
+{
+  "event_type": "wedding",
+  "price_type": "fixed",
+  "final_price_value": 5625,
+  "min_guests": 75,
+  "max_guests": 75,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2024-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "complete buffet setup",
+    "staff assistance"
+  ],
+  "extra_notes": null
+}

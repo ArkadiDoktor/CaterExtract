@@ -1,0 +1,23 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "fixed",
+  "final_price_value": 8500,
+  "min_guests": 120,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2024-06-15",
+  "cancellation_policy": "flexible, allowing for changes up to two weeks before the event",
+  "menu_highlights": [
+    "three-course meal",
+    "service staff"
+  ],
+  "extra_notes": null
+}

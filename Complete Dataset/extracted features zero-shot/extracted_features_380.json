@@ -1,0 +1,20 @@
+{
+  "event_type": null,
+  "price_type": "per_person",
+  "final_price_value": 50,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "dairy",
+  "dietary_options": [],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "full refunds if canceled at least two weeks prior to the event",
+  "menu_highlights": [
+    "gourmet dessert selection",
+    "standard offerings"
+  ],
+  "extra_notes": null
+}

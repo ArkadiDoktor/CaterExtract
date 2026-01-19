@@ -1,0 +1,22 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per_person",
+  "final_price_value": 4000,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "meat dishes",
+    "vegetarian dishes"
+  ],
+  "extra_notes": "beverage package for an additional $10 per person"
+}

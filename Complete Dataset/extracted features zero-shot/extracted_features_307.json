@@ -1,0 +1,20 @@
+{
+  "event_type": "wedding",
+  "price_type": "per_person",
+  "final_price_value": 8400,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-06-15",
+  "cancellation_policy": "full refund if cancellation occurs at least 30 days before the event, otherwise a 50% charge will apply",
+  "menu_highlights": [
+    "mixed menu",
+    "beverage package"
+  ],
+  "extra_notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate gathering",
+  "price_type": "per_person",
+  "final_price_value": 32,
+  "min_guests": 75,
+  "max_guests": 75,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-04-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "meat dishes",
+    "dairy dishes"
+  ],
+  "extra_notes": null
+}

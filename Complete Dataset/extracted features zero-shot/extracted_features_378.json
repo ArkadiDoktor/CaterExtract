@@ -1,0 +1,24 @@
+{
+  "event_type": "conference",
+  "price_type": "fixed",
+  "final_price_value": 8250,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-10-15",
+  "cancellation_policy": "notice at least seven days prior to the event for a full refund",
+  "menu_highlights": [
+    "herb-marinated chicken",
+    "seasonal roasted vegetables",
+    "rich chocolate mousse"
+  ],
+  "extra_notes": null
+}

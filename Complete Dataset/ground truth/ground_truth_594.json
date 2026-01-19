@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 3375,
+  "min_guests": 50,
+  "max_guests": 120,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free, kosher",
+  "event_date": "2024-04-15",
+  "cancellation_policy": "two weeks notice",
+  "menu_highlights": "meat and dairy options",
+  "extra_notes": "food and service staff included"
+}

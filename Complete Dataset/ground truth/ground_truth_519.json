@@ -1,0 +1,17 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per person",
+  "final_price_value": 7500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "rabbinical supervision",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "2023-11-15",
+  "cancellation_policy": "two weeks prior for full refund",
+  "menu_highlights": "roasted beet salad, herb-marinated chicken, vegetable lasagna",
+  "extra_notes": null
+}

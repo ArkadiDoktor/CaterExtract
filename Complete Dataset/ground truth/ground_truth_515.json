@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 3000,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbi",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken, penne arrabbiata, assorted desserts",
+  "extra_notes": "setup by 5 PM"
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "per person",
+  "final_price_value": 7500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "June 15th",
+  "cancellation_policy": "minimum of two weeks' notice for cancellations",
+  "menu_highlights": "herb-crusted salmon, vegetarian option, assorted pastries",
+  "extra_notes": "staffing and equipment setups to be detailed"
+}

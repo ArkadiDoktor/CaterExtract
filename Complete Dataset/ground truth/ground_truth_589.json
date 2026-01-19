@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per person",
+  "final_price_value": 6600,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "2024-04-15",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-roasted chicken, vegetarian lasagna, seasonal salads",
+  "extra_notes": "setup, staffing, and necessary equipment included"
+}

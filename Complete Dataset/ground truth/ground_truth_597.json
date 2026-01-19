@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 11250,
+  "min_guests": 100,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegetarian",
+  "event_date": "2024-04-15",
+  "cancellation_policy": "two weeks notice",
+  "menu_highlights": "gourmet meat and vegetarian dishes",
+  "extra_notes": "setup, service staff, equipment included"
+}

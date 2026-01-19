@@ -1,0 +1,21 @@
+{
+  "event_type": "corporate gathering",
+  "price_type": "fixed price",
+  "final_price_value": 3750,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian and gluten-free",
+  "event_date": "2023-10-15",
+  "cancellation_policy": "full refund up to five days before, 50% fee thereafter",
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "grilled vegetable skewers",
+    "gourmet salads"
+  ],
+  "extra_notes": null
+}

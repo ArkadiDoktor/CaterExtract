@@ -1,0 +1,17 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per person",
+  "final_price_value": 8400,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free options available",
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": "lamb dishes, stuffed peppers, roasted vegetable platters",
+  "extra_notes": "bar service included for an additional flat rate"
+}

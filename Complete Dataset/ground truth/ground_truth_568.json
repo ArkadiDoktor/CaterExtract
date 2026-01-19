@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 42,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical council",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free, kosher",
+  "event_date": "November 15th",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken, roasted vegetables, artisan breads",
+  "extra_notes": null
+}

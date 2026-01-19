@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 7500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian options available",
+  "event_date": "2023-12-10",
+  "cancellation_policy": "changes up to a week before the event",
+  "menu_highlights": "roast beef, grilled salmon, vegetarian dishes",
+  "extra_notes": "20% deposit required to secure date"
+}

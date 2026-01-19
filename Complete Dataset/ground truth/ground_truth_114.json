@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per person",
+  "final_price_value": 11250,
+  "min_guests": 100,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-12-10",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled salmon, herb-roasted chicken, vegetarian pasta",
+  "extra_notes": "staffing fee of $500 for setup and service"
+}

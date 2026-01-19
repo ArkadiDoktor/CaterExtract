@@ -1,0 +1,17 @@
+{
+  "event_type": "conference",
+  "price_type": "per person",
+  "final_price_value": 35,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "April 15th",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": null
+}

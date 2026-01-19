@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "fixed",
+  "final_price_value": 4800,
+  "min_guests": 120,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": "roasted chicken, vegetable lasagna, seasonal salads",
+  "extra_notes": "full setup with staff required"
+}

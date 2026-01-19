@@ -1,0 +1,17 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per person",
+  "final_price_value": 14250,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "March 15th",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-crusted chicken, roasted vegetable pasta, gourmet salad bar",
+  "extra_notes": "setup and staffing details needed"
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "per person",
+  "final_price_value": 5700,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical council",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegan",
+  "event_date": "February 15th",
+  "cancellation_policy": "full refund if cancellation occurs at least two weeks before the event; otherwise, 30% deposit retained",
+  "menu_highlights": "full buffet with meat, vegetarian, and vegan options",
+  "extra_notes": "includes service staff and necessary equipment"
+}

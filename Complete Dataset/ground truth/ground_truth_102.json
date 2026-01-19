@@ -1,0 +1,17 @@
+{
+  "event_type": "event",
+  "price_type": "per person",
+  "final_price_value": 3000,
+  "min_guests": 50,
+  "max_guests": 100,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Westminster Rabbinical Council",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": null,
+  "extra_notes": null
+}

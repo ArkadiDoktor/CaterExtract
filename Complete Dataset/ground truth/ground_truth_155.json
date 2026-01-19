@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per person",
+  "final_price_value": 9500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "2024-06-15",
+  "cancellation_policy": "Full refund up to two weeks before; 50% charge after that",
+  "menu_highlights": "beef brisket, herb-roasted chicken, vegetarian options",
+  "extra_notes": "includes full dinner service, equipment, and staffing"
+}

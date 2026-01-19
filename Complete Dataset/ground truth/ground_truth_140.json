@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 10500,
+  "min_guests": 100,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbi's Council",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free alternatives available",
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": "appetizers, main courses, desserts",
+  "extra_notes": "staff available for setup and service"
+}

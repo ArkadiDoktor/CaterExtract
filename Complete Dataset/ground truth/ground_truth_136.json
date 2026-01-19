@@ -1,0 +1,17 @@
+{
+  "event_type": "charity gala",
+  "price_type": "fixed price",
+  "final_price_value": 9000,
+  "min_guests": 100,
+  "max_guests": 250,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2024-03-15",
+  "cancellation_policy": "two weeks prior for full refunds",
+  "menu_highlights": "roasted chicken, vegetarian lasagna, seasonal vegetable platters, gourmet salads",
+  "extra_notes": "staff available for the duration of the event"
+}

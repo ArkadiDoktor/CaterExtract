@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed price",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Beth Din of London",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian, gluten-free",
+  "event_date": "2023-12-12",
+  "cancellation_policy": null,
+  "menu_highlights": "herb-roasted chicken, vegan pasta primavera, chocolate mousse",
+  "extra_notes": "standard bar arrangement, staffing and equipment details pending"
+}

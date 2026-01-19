@@ -1,0 +1,17 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per person",
+  "final_price_value": 47,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OK",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": "gluten-free, vegan",
+  "event_date": "March 15th",
+  "cancellation_policy": "changes up to one week before the event",
+  "menu_highlights": "grilled salmon, chicken marsala, vegetarian dishes",
+  "extra_notes": "beverages included, price adjustment to $47 per person"
+}

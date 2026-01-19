@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate event",
+  "price_type": "per person",
+  "final_price_value": 18000,
+  "min_guests": 50,
+  "max_guests": 300,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "2023-11-15",
+  "cancellation_policy": "changes up to two weeks before the event without penalty",
+  "menu_highlights": "grilled chicken skewers, roasted vegetable platters, desserts",
+  "extra_notes": "final guest count needed by November 1st"
+}

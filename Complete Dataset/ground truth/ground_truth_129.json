@@ -1,0 +1,22 @@
+{
+  "event_type": "Corporate Event",
+  "price_type": "per person",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": null,
+  "event_date": "March 15th",
+  "cancellation_policy": "cancellations made within two weeks incur a fee",
+  "menu_highlights": [
+    "grilled chicken",
+    "beef brisket",
+    "assorted salads",
+    "seasonal vegetables"
+  ],
+  "extra_notes": null
+}

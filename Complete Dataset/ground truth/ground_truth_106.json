@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "fixed price",
+  "final_price_value": 4200,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Rabbinical Council",
+  "includes_bar": false,
+  "menu_type": "meat",
+  "dietary_options": "vegetarian, vegan, gluten-free",
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken, beef brisket, selection of sides",
+  "extra_notes": "soft drinks and water included"
+}

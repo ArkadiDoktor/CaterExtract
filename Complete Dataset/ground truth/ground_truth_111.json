@@ -1,0 +1,17 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "per person",
+  "final_price_value": 60,
+  "min_guests": 100,
+  "max_guests": 300,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbi",
+  "includes_bar": null,
+  "menu_type": "mixed",
+  "dietary_options": "vegetarian options available",
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": "grilled chicken, roasted vegetables, selection of desserts",
+  "extra_notes": "setup and staffing included"
+}

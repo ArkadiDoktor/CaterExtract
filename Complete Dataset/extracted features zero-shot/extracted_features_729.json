@@ -1,0 +1,25 @@
+{
+  "event_type": "corporate",
+  "price_type": "per_person",
+  "final_price_value": 3150,
+  "min_guests": 60,
+  "max_guests": 80,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "meat",
+    "dairy"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "10 days prior for a full refund",
+  "menu_highlights": [
+    "three-course meal",
+    "setup",
+    "staffing"
+  ],
+  "extra_notes": "beverage package available for an additional cost"
+}

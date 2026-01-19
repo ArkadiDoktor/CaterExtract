@@ -1,0 +1,26 @@
+{
+  "event_type": "corporate gala",
+  "price_type": "fixed",
+  "final_price_value": 12000,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "meat",
+    "vegetarian"
+  ],
+  "event_date": "2023-06-15",
+  "cancellation_policy": "full refund up to 30 days prior to the event, 50% refund for cancellations made up to a week before",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "grilled salmon",
+    "seasonal vegetables",
+    "chocolate mousse",
+    "fruit tart"
+  ],
+  "extra_notes": null
+}

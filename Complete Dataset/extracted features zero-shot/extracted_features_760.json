@@ -1,0 +1,25 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "fixed",
+  "final_price_value": 2500,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2023-05-15",
+  "cancellation_policy": "two weeks prior to the event for a full refund",
+  "menu_highlights": [
+    "hors d'oeuvres",
+    "two main courses",
+    "dessert display",
+    "herb-crusted chicken",
+    "roasted vegetables"
+  ],
+  "extra_notes": null
+}

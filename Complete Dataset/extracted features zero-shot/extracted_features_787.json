@@ -1,0 +1,23 @@
+{
+  "event_type": "corporate retreat",
+  "price_type": "range",
+  "final_price_value": 4500,
+  "min_guests": 100,
+  "max_guests": 100,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-06-15",
+  "cancellation_policy": "notification at least two weeks prior for a full refund; 50% refund up to a week before the event",
+  "menu_highlights": [
+    "meat options",
+    "vegetarian options"
+  ],
+  "extra_notes": "setup will be handled by the catering team"
+}

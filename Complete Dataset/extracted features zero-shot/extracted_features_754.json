@@ -1,0 +1,23 @@
+{
+  "event_type": "wedding",
+  "price_type": "per_person",
+  "final_price_value": 70,
+  "min_guests": 75,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2024-03-15",
+  "cancellation_policy": "We allow cancellations up to 30 days before the event with a full refund. For cancellations made within 30 days, we retain a 25% deposit.",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "grilled salmon",
+    "vegetarian dishes"
+  ],
+  "extra_notes": null
+}

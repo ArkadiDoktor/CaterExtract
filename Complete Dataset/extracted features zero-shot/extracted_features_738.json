@@ -1,0 +1,22 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "per_person",
+  "final_price_value": 10200,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher"
+  ],
+  "event_date": "2024-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "meat options",
+    "dairy options"
+  ],
+  "extra_notes": null
+}

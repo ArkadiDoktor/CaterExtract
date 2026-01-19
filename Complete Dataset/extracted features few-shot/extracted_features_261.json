@@ -1,0 +1,21 @@
+{
+  "event_type": "gala",
+  "price_type": "fixed",
+  "final_price_value": 3200,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical council",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free",
+    "pareve"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "full refund up to a week prior",
+  "menu_highlights": [],
+  "extra_notes": null
+}

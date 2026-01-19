@@ -1,0 +1,22 @@
+{
+  "event_type": "charity gala",
+  "price_type": "fixed",
+  "final_price_value": 5000,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2024-01-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-roasted chicken",
+    "grilled vegetable skewers",
+    "gourmet salads",
+    "dessert station"
+  ],
+  "extra_notes": null
+}

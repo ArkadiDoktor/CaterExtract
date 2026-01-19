@@ -1,0 +1,20 @@
+{
+  "event_type": "gala",
+  "price_type": "per_person",
+  "final_price_value": 40,
+  "min_guests": 100,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "London Beth Din",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "Cancellations up to seven days prior to the event with a full refund. After that, a 25% deposit will be retained.",
+  "menu_highlights": [],
+  "extra_notes": null
+}

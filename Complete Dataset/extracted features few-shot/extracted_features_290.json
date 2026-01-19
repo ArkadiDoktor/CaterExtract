@@ -1,0 +1,25 @@
+{
+  "event_type": "gala",
+  "price_type": "fixed",
+  "final_price_value": 8400,
+  "min_guests": 120,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "OU",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "creamy mushroom risotto",
+    "vibrant vegetable medley",
+    "dessert selection"
+  ],
+  "extra_notes": null
+}

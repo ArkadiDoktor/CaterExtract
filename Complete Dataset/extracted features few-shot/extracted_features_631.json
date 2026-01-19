@@ -1,0 +1,24 @@
+{
+  "event_type": "gala",
+  "price_type": "per_person",
+  "final_price_value": 70,
+  "min_guests": 50,
+  "max_guests": 200,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "event_date": "2023-03-15",
+  "cancellation_policy": "changes up to two weeks before the event",
+  "menu_highlights": [
+    "herb-crusted chicken",
+    "grilled vegetable skewers",
+    "chocolate mousse"
+  ],
+  "extra_notes": null
+}

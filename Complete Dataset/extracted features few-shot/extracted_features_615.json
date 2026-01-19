@@ -1,0 +1,19 @@
+{
+  "event_type": "corporate",
+  "price_type": "range",
+  "final_price_value": 4500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "OK Kosher Certification",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian"
+  ],
+  "event_date": "2023-10-15",
+  "cancellation_policy": null,
+  "menu_highlights": [],
+  "extra_notes": null
+}

@@ -1,0 +1,17 @@
+{
+  "event_type": "wedding",
+  "price_type": "fixed",
+  "final_price_value": 5500,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local rabbinical authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": [],
+  "extra_notes": null
+}

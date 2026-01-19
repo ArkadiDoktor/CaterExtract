@@ -1,0 +1,21 @@
+{
+  "event_type": "wedding reception",
+  "price_type": "fixed",
+  "final_price_value": 75,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [],
+  "event_date": "2023-06-15",
+  "cancellation_policy": null,
+  "menu_highlights": [
+    "grilled chicken with seasonal vegetables",
+    "vegetarian pasta",
+    "selection of desserts"
+  ],
+  "extra_notes": null
+}

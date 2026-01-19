@@ -1,0 +1,25 @@
+{
+  "event_type": "gala dinner",
+  "price_type": "per_person",
+  "final_price_value": 75,
+  "min_guests": 50,
+  "max_guests": 150,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "kosher",
+    "special accommodations"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": "full refund up to two weeks prior to the event",
+  "menu_highlights": [
+    "three-course meal",
+    "appetizer",
+    "main course",
+    "dessert"
+  ],
+  "extra_notes": null
+}

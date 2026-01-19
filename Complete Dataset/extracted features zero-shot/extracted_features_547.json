@@ -1,0 +1,20 @@
+{
+  "event_type": "gala event",
+  "price_type": "range",
+  "final_price_value": 65,
+  "min_guests": 100,
+  "max_guests": 200,
+  "includes_vat": false,
+  "is_kosher": true,
+  "kosher_supervision": "Orthodox Union",
+  "includes_bar": false,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegan",
+    "vegetarian"
+  ],
+  "event_date": "2023-11-15",
+  "cancellation_policy": null,
+  "menu_highlights": [],
+  "extra_notes": null
+}

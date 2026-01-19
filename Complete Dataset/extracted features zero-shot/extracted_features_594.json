@@ -1,0 +1,23 @@
+{
+  "event_type": "wedding",
+  "price_type": "per_person",
+  "final_price_value": 3375,
+  "min_guests": 75,
+  "max_guests": 75,
+  "includes_vat": true,
+  "is_kosher": true,
+  "kosher_supervision": "local Kashrut authority",
+  "includes_bar": true,
+  "menu_type": "mixed",
+  "dietary_options": [
+    "vegetarian",
+    "gluten-free",
+    "kosher"
+  ],
+  "event_date": "2023-04-15",
+  "cancellation_policy": "notice at least two weeks in advance",
+  "menu_highlights": [
+    "variety of meat and dairy dishes"
+  ],
+  "extra_notes": null
+}

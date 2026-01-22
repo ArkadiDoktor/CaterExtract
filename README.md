@@ -27,7 +27,7 @@ Two datasets are used:
 
 * **1,000 synthetic email threads**
 * Each thread contains exactly four emails simulating a short negotiation
-* Each thread has a corresponding ground truth JSON file
+* Each thread has a corresponding ground-truth JSON file
 
 Structure:
 
@@ -40,7 +40,7 @@ Structure:
 
 * **30 email threads**
 * Each thread contains exactly four emails simulating a short negotiation
-* Each thread has a corresponding ground truth JSON file
+* Each thread has a corresponding ground-truth JSON file
 
 Structure mirrors the complete dataset but at smaller scale.
 
@@ -57,11 +57,9 @@ Ground truth features are generated separately and stored in structured JSON for
 
 ## Input / Output Examples
 
-**Input:**
-A four message email thread discussing catering for an event, including negotiation over price, guest count, and services.
+**Input:** A four message email thread discussing catering for an event, including negotiation over price, guest count, and services.
 
-**Output:**
-A JSON object with the following fields:
+**Output:** A JSON object with the following fields:
 
 * event_type
 * price_type
@@ -126,7 +124,7 @@ The project compares four distinct approaches:
 
 Loss weighting is applied to emphasize harder or more important fields (e.g., price and numeric values).
 
-## Metrics and Results
+## Metrics
 
 Evaluation is performed at the **field level** and averaged across all features:
 
@@ -134,19 +132,25 @@ Evaluation is performed at the **field level** and averaged across all features:
 * Relative error tolerance for numeric fields
 * Overlap / F1-style scoring for list fields
 
-Summary results are stored in:
+## Results
 
-* `Results/Zero-Shot-LLM_results.csv`
-* `Results/Few-Shot-LLM_results.csv`
-* `Results/Fine-Tuned-Model_results.csv`
-* `Results/Interm_results.csv`
+Quantitative results for each modeling approach are provided as CSV files under the `Results/` directory:
 
-Key findings:
+* `Zero-Shot-LLM_results.csv`
+* `Few-Shot-LLM_results.csv`
+* `Fine-Tuned-Model_results.csv`
+* `Interm_results.csv`
 
-* LLMs excel at boolean and semantic fields
-* Schema constrained fields (e.g., price_type) are challenging for prompt based methods
-* The fine-tuned model provides the best overall consistency
-* Pure NER approaches struggle with agreement resolution
+Each file reports **per-field performance scores** as well as an overall average score across all extracted features.
+
+**Observed trends:**
+
+* Zero-shot LLM extraction performs well on semantic and boolean attributes (e.g., `includes_vat`, `is_kosher`) but struggles with schema-constrained and numeric fields.
+* Few-shot prompting improves consistency, particularly for categorical fields such as `event_type` and `menu_type`.
+* The fine-tuned DistilBERT based model achieves the most stable and balanced performance across heterogeneous feature types.
+* The NER-based baseline (GLiNER) underperforms on agreement resolution and numeric aggregation, highlighting the limitations of entity only approaches for negotiation scenarios.
+
+Visual comparisons of results (tables and charts) are available in the `Visuals/` directory for each method.
 
 ## Repository Structure
 
@@ -192,3 +196,4 @@ Visuals/
 ---
 
 This repository accompanies an academic project on structured information extraction from business email negotiations and is intended for research and educational use.
+

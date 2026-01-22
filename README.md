@@ -85,7 +85,7 @@ The project compares four distinct approaches:
 
 1. **Zero-Shot LLM Extraction**
 
-   * Prompt-based extraction using an LLM
+   * Prompt based extraction using an LLM
    * No examples provided
 
 2. **Few-Shot LLM Extraction**
@@ -102,10 +102,10 @@ The project compares four distinct approaches:
      * Binary prediction
      * Multi-label prediction
 
-4. **NER-Based Baseline (GLiNER)**
+4. **NER Based Baseline (GLiNER)**
 
    * Entity extraction from first and last emails only
-   * Rule-based post-processing to map entities into schema fields
+   * Rule based post-processing to map entities into schema fields
 
 ## Training Process and Parameters
 
@@ -144,7 +144,7 @@ Summary results are stored in:
 Key findings:
 
 * LLMs excel at boolean and semantic fields
-* Schema-constrained fields (e.g., price_type) are challenging for prompt-based methods
+* Schema constrained fields (e.g., price_type) are challenging for prompt based methods
 * The fine-tuned model provides the best overall consistency
 * Pure NER approaches struggle with agreement resolution
 

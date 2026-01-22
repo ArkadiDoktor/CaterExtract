@@ -186,8 +186,8 @@ Visuals/
 
 ## Team Members
 
-* Project Author: *[Arkadi Doktorovich]*
-* Project Participant: *[Hen Mandelbaum]*
+* *[Arkadi Doktorovich]*
+* *[Hen Mandelbaum]*
 
 ---
 

@@ -27,7 +27,7 @@ Two datasets are used:
 
 * **1,000 synthetic email threads**
 * Each thread contains exactly four emails simulating a short negotiation
-* Each thread has a corresponding ground-truth JSON file
+* Each thread has a corresponding ground truth JSON file
 
 Structure:
 

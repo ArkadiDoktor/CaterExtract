@@ -40,7 +40,7 @@ Structure:
 
 * **30 email threads**
 * Each thread contains exactly four emails simulating a short negotiation
-* Each thread has a corresponding ground-truth JSON file
+* Each thread has a corresponding ground truth JSON file
 
 Structure mirrors the complete dataset but at smaller scale.
 

@@ -1,0 +1,17 @@
+﻿Attribute,Value
+Average exact match,0.741
+event_type,0.579
+price_type,0.944
+final_price_value,0.25
+min_guests,0.173
+max_guests,0.521
+includes_vat,0.851
+is_kosher,0.998
+kosher_supervision,1
+includes_bar,0.6
+menu_type,1
+dietary_options,1
+event_date,0.209
+cancellation_policy,0.996
+menu_highlights,1
+extra_notes,1

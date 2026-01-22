@@ -2,7 +2,7 @@
 
 ## Project Motivation
 
-Modern business negotiations often occur through unstructured email threads. Critical contractual details—such as pricing, guest counts, dietary requirements, or cancellation policies—are implicitly agreed upon across multiple messages rather than stated explicitly in a single place. Manually extracting these details is time-consuming and error-prone. **CaterExtract** aims to explore and compare multiple modeling paradigms for automatically extracting structured contract-level features from multi-turn catering-related email negotiations.
+Modern business negotiations often occur through unstructured email threads. Critical contractual details such as pricing, guest counts, dietary requirements, or cancellation policies are implicitly agreed upon across multiple messages rather than stated explicitly in a single place. Manually extracting these details is time consuming and error prone. **CaterExtract** aims to explore and compare multiple modeling paradigms for automatically extracting structured contract level features from multi-turn catering related email negotiations.
 
 ## Problem Statement
 

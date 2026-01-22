@@ -145,10 +145,10 @@ Each file reports **per-field performance scores** as well as an overall average
 
 **Observed trends:**
 
-* Zero-shot LLM extraction performs well on semantic and boolean attributes (e.g., `includes_vat`, `is_kosher`) but struggles with schema-constrained and numeric fields.
+* Zero-shot LLM extraction performs well on semantic and boolean attributes (e.g., `includes_vat`, `is_kosher`) but struggles with schema constrained and numeric fields.
 * Few-shot prompting improves consistency, particularly for categorical fields such as `event_type` and `menu_type`.
 * The fine-tuned DistilBERT based model achieves the most stable and balanced performance across heterogeneous feature types.
-* The NER-based baseline (GLiNER) underperforms on agreement resolution and numeric aggregation, highlighting the limitations of entity only approaches for negotiation scenarios.
+* The NER based baseline (GLiNER) underperforms on agreement resolution and numeric aggregation, highlighting the limitations of entity only approaches for negotiation scenarios.
 
 Visual comparisons of results (tables and charts) are available in the `Visuals/` directory for each method.
 
